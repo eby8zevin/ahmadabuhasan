@@ -29,7 +29,11 @@ include "connection.php";
         </tr>
       </thead>
       <tbody>
-        
+        <?php
+        $no=1;
+        $query = $conn->query("SELECT * FROM tugas_data");
+        while ($data = $query->fetch_assoc()) {
+        ?>
         <tr>
           <td></td>
           <td></td>
@@ -38,8 +42,7 @@ include "connection.php";
           <td></td>
           <td></td>
         </tr>
-       
-       
+        <?php } ?>
       </tbody>
     </table>
   </div>
