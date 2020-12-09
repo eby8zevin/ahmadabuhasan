@@ -1,3 +1,7 @@
+<?php
+include "connection.php";
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -17,11 +21,21 @@
       <thead>
         <tr>
           <th>No</th>
+          <th>NIM</th>
+          <th>Nama</th>
+          <th>Alamat</th>
+          <th>TTL</th>
+          <th>Status</th>
         </tr>
       </thead>
       <tbody>
         <tr>
           <td>No</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
         </tr>
       </tbody>
     </table>
