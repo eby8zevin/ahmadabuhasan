@@ -32,7 +32,7 @@ include "connection.php";
         <?php
         $no=1;
         $query = mysqli_query($conn, "SELECT * FROM tugas_data");
-        while ($data = mysqli_fetch_array($query)) {
+        while ($data = mysqli_fetch_assoc($query)) {
         ?>
         <tr>
           <td><?php echo no++; ?></td>
