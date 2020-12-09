@@ -43,6 +43,7 @@ include "connection.php";
           <td></td>
         </tr>
        <?php } ?>
+       <?php mysqli_close($conn); ?>
       </tbody>
     </table>
   </div>
