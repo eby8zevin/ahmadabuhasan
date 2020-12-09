@@ -1,6 +1,6 @@
 <?php
 
-$db_hostname = "mysql8.000webhost.com";
+$db_hostname = "localhost";
 $db_username = "id15358400_root";
 $db_password = "000WebHost-root";
 $db_name = "id15358400_uas";
