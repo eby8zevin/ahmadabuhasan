@@ -11,7 +11,8 @@
     <?php
       date_default_timezone_set('Asia/Jakarta');
       echo date('d F Y H:i:s'); 
-    ?><br>
+    ?>
+    <p><a href="add.php">Add Data</a></p>
     <table border="" width="">
       <thead>
         <tr>
