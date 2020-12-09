@@ -22,8 +22,9 @@ include "connection.php";
      <th>No</th>
      <th>NIM</th>
      <th>Nama</th>
-     <th>Program Studi</th>
-     <th>Tanggal Bulan Tahun</th>
+     <th>Alamat</th>
+     <th>TTL</th>
+     <th>Status</th>
      <th>Aksi</th>
     </tr>
    </thead>
@@ -34,7 +35,7 @@ include "connection.php";
      //eksekusi query menampilkan data dari tabel data_mhs
      $query=mysqli_query($conn, $sql);
      //mengembalikan data row menjadi array dan looping data menggunakan while
-     while ($data=sqlsrv_fetch_array($query)) {
+     while ($data=mysqli_fetch_assoc($query)) {
     ?>
      <tr>
       <td><?php echo $no++; ?></td>
@@ -46,8 +47,9 @@ include "connection.php";
         				$date = new DateTime($source);
         				echo $date->format('d - m - Y');?>
       <td>
+      <td><?php echo $data['status_data']; ?></td>
         <a href="edit.php?id=<?php echo $data['ID_datamhs']; ?>" style="float: left;">Edit</a> 
-        <a href="hapus.php?id=<?php echo $data['ID_datamhs']; ?>" style="float: right;" onClick="javascript: return confirm('Apakah anda yakin?');">Hapus</a>
+        <a href="delete.php?id=<?php echo $data['ID_datamhs']; ?>" style="float: right;" onClick="javascript: return confirm('Apakah anda yakin?');">Hapus</a>
       </td>
      </tr>
     <?php } ?>
