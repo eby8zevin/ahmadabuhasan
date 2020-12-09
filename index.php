@@ -31,8 +31,8 @@ include "connection.php";
       <tbody>
         <?php
         $no=1;
-        $query = mysqli_query($conn, "SELECT * FROM tugas_data");
-        while ($data = mysqli_fetch_assoc($query)) {
+        $query = $conn->query("SELECT * FROM tugas_data");
+        while ($data = $query->fetch_assoc()) {
         ?>
         <tr>
           <td><?php echo no++; ?></td>
@@ -43,7 +43,7 @@ include "connection.php";
           <td></td>
         </tr>
        <?php } ?>
-       <?php mysqli_close($conn); ?>
+       <?php $conn->close(); ?>
       </tbody>
     </table>
   </div>
