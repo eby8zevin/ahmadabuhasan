@@ -38,7 +38,7 @@ include "connection.php";
           <td><?php echo $data['ttl_data']; ?></td>
           <td><?php echo $data['status_data']; ?></td>
         </tr>
-       <?php } ?>
+       
        
       </tbody>
     </table>
