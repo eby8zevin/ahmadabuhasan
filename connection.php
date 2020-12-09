@@ -6,7 +6,7 @@ $db_password = "000WebHost-root";
 $db_name = "id15358400_uas";
 
 // Create connection
-$conn = new mysqli($db_hostname, $db_username, $db_password, $db_nameee);
+$conn = new mysqli();
 
 // Check connection
 if (!$conn) {
