@@ -29,11 +29,7 @@ include "connection.php";
         </tr>
       </thead>
       <tbody>
-        <?php
-        $no=1;
-        $query = $conn->query("SELECT * FROM tugas_data");
-        while ($data = $query->fetch_assoc()) {
-        ?>
+        
         <tr>
           <td><?php echo no++; ?></td>
           <td><?php echo $data['nim_data']; ?></td>
