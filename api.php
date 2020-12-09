@@ -2,7 +2,7 @@
 
 include "connection.php";
 	
-$query = mysqli_query("SELECT * FROM tugas_data");
+$query = mysqli_query($conn, "SELECT * FROM tugas_data");
 	
 $json = array();
 	
@@ -12,6 +12,6 @@ while($row = mysqli_fetch_assoc($query)){
 	
 echo json_encode($json);
 	
-mysqli_close($connect);
+mysqli_close($conn);
 	
 ?>
