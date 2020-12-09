@@ -11,11 +11,11 @@ include "connection.php";
 </head>
 <body>
   <div align="center">
-  <h3>Simpan Data SQL Server dengan PHP<br>jancukers.com</h3>
+  <h3>Simpan Data MySQL dengan PHP<br>jancukers.com</h3>
     <?php
       date_default_timezone_set('Asia/Jakarta');
       echo date('d F Y H:i:s'); ?>
-    <p><a href="tambah.php">Tambah Data</a></p>
+    <p><a href="add.php">Tambah Data</a></p>
   <table border="1" width="700px">
    <thead>
     <tr>
@@ -30,10 +30,9 @@ include "connection.php";
    </thead>
    <tbody>
     <?php
-     $sql="SELECT * FROM tugas_data";
      $no=1;
-     //eksekusi query menampilkan data dari tabel data_mhs
-     $query=mysqli_query($conn, $sql);
+     //eksekusi query menampilkan data dari tabel tugas_data
+     $query = mysqli_query($conn, "SELECT * FROM tugas_data");
      //mengembalikan data row menjadi array dan looping data menggunakan while
      while ($data=mysqli_fetch_array($query)) {
     ?>
