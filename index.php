@@ -37,13 +37,13 @@ include "connection.php";
         <tr>
           <td><?php echo no++; ?></td>
           <td><?php echo $data['nim_data']; ?></td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td></td>
+          <td>?php echo $data['nama_data']; ?></td>
+          <td>?php echo $data['alamat_data']; ?></td>
+          <td>?php echo $data['ttl_data']; ?></td>
+          <td>?php echo $data['status_data']; ?></td>
         </tr>
        <?php } ?>
-       <?php $conn->close(); ?>
+       <?php mysqli_close($conn); ?>
       </tbody>
     </table>
   </div>
