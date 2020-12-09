@@ -29,14 +29,20 @@ include "connection.php";
         </tr>
       </thead>
       <tbody>
+        <?php
+        $no=1;
+        $query = mysqli_query($conn, "SELECT * FROM tugas_data");
+        while ($data = mysqli_fetch_array($query)) {
+        ?>
         <tr>
-          <td>No</td>
-          <td></td>
+          <td><?php echo no++; ?></td>
+          <td><?php echo $data['nim_data']; ?></td>
           <td></td>
           <td></td>
           <td></td>
           <td></td>
         </tr>
+       <?php } ?>
       </tbody>
     </table>
   </div>
