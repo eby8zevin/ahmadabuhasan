@@ -35,7 +35,7 @@ include "connection.php";
      //eksekusi query menampilkan data dari tabel data_mhs
      $query=mysqli_query($conn, $sql);
      //mengembalikan data row menjadi array dan looping data menggunakan while
-     while ($data=mysqli_fetch_assoc($query)) {
+     while ($data=mysqli_fetch_array($query)) {
     ?>
      <tr>
       <td><?php echo $no++; ?></td>
@@ -48,8 +48,8 @@ include "connection.php";
         				echo $date->format('d - m - Y');?>
       <td>
       <td><?php echo $data['status_data']; ?></td>
-        <a href="edit.php?id=<?php echo $data['ID_datamhs']; ?>" style="float: left;">Edit</a> 
-        <a href="delete.php?id=<?php echo $data['ID_datamhs']; ?>" style="float: right;" onClick="javascript: return confirm('Apakah anda yakin?');">Hapus</a>
+        <a href="edit.php?id=<?php echo $data['id_data']; ?>" style="float: left;">Edit</a> 
+        <a href="delete.php?id=<?php echo $data['id_data']; ?>" style="float: right;" onClick="javascript: return confirm('Apakah anda yakin?');">Hapus</a>
       </td>
      </tr>
     <?php } ?>
