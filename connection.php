@@ -8,6 +8,7 @@ $db_name = "id15358400_uas";
 // Create connection
 $conn = new mysqli($db_hostname, $db_username, $db_password, $db_name);
 
+// Check connection
 if (!$conn) {
   die("Connection failed: " . mysqli_connect_error());
 }
