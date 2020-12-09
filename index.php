@@ -35,12 +35,12 @@ include "connection.php";
         while ($data = $query->fetch_assoc()) {
         ?>
         <tr>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td></td>
+          <td><?php echo $no++; ?></td>
+          <td><?php echo $data['nim_data']; ?></td>
+          <td><?php echo $data['nama_data']; ?></td>
+          <td><?php echo $data['alamat_data']; ?></td>
+          <td><?php echo $data['ttl_data']; ?></td>
+          <td><?php echo $data['status_data']; ?></td>
         </tr>
         <?php } ?>
       </tbody>
