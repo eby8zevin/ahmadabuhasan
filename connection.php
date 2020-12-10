@@ -10,10 +10,11 @@ $pdo = new PDO("pgsql:" . sprintf(
     ltrim($db["path"], "/")
 ));
 
-if($pdo) {
-       echo 'connected';
-    } else {
-        echo 'there has been an error connecting';
-    }
+// Check connection
+if(!$pdo) { 
+    echo 'There has been an error connecting';
+} else {
+    echo 'Connected successfully';
+}
 
 ?>
