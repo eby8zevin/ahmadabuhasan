@@ -19,6 +19,7 @@
           <th>No</th>
           <th>NIM</th>
           <th>Nama</th>
+          <th>Alamat</th>
         </tr>
       </thead>
       <tbody>
@@ -26,6 +27,7 @@
           <td>No</td>
           <td>NIM</td>
           <td>Nama</td>
+          <td>Alamat</td>
         </tr>
       </tbody>
     </table>
