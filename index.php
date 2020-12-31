@@ -42,7 +42,7 @@ include "connection.php";
           <td>Alamat</td>
         </tr>
         <tr>
-          <td style="text-align: center;"></td>
+          <td style="text-align: center;"><?php echo $no++; ?></td>
           <td>NIM</td>
           <td>Nama</td>
           <td>Alamat</td>
