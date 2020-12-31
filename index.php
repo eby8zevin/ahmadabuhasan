@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <title>UAS WEB 7</title>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/favicon/apple-touch-icon.png">
 </head>
 <body>
   <center><font color="red" size="100"><b>H E R O K U</b></font></center>
