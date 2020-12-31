@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-  <center><font color="red" size="100"><b>M A I N T E N A N C E</b></font></center>
+  <center><font color="red" size="100"><b>H E R O K U</b></font></center>
   <div align="center">
     <h3>CRUD Heroku with Postgresql<br>jancukers.com</h3>
       <p><?php
