@@ -34,6 +34,7 @@ include "connection.php";
         </tr>
       </thead>
       <tbody>
+        <?php $no = 1; ?>
         <tr>
           <td>No</td>
           <td>NIM</td>
