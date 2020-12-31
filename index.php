@@ -41,6 +41,12 @@ include "connection.php";
           <td>Nama</td>
           <td>Alamat</td>
         </tr>
+        <tr>
+          <td style="text-align: center;"></td>
+          <td>NIM</td>
+          <td>Nama</td>
+          <td>Alamat</td>
+        </tr>
       </tbody>
     </table>
   </div>
