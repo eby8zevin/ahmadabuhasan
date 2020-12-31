@@ -36,7 +36,7 @@ include "connection.php";
       <tbody>
         <?php $no = 1; ?>
         <tr>
-          <td><?php $no++ ?></td>
+          <td><?php echo $no++; ?></td>
           <td>NIM</td>
           <td>Nama</td>
           <td>Alamat</td>
