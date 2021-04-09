@@ -16,6 +16,7 @@ include "connection.php";
   <link rel="manifest" href="assets/img/favicon/site.webmanifest">
 </head>
 <body>
+  <img src="assets/img/favicon/favicon-16x16.png" alt="Test" width="500" height="600">
   
   <center><font color="red" size="100"><b>H E R O K U</b></font></center>
   <div align="center">
