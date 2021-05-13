@@ -91,7 +91,7 @@ include "connection.php";
         </tr>
         <tr>
           <td style="text-align: center;"><?php echo $no++; ?></td>
-          <td>NIM</td>
+          <td>117227010</td>
           <td>Nama</td>
           <td>Alamat</td>
         </tr>
