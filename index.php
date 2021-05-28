@@ -30,17 +30,17 @@ include "connection.php";
         <tr>
           <th>No</th>
           <th>NIM</th>
-          <th>Nama</th>
-          <th>Alamat</th>
+          <th>Name</th>
+          <th>Address</th>
         </tr>
       </thead>
       <tbody>
         <?php $no = 1; ?>
         <tr>
           <td style="text-align: center;"><?php echo $no++; ?></td>
-          <td>NIM</td>
-          <td>Nama</td>
-          <td>Alamat</td>
+          <td>11722711</td>
+          <td>John</td>
+          <td>New York</td>
         </tr>
       </tbody>
     </table>
