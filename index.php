@@ -18,7 +18,7 @@ include "connection.php";
 </head>
 <body>
   
-  <center><font color="red" size="116"><b>H E R O K U</b></font></center>
+  <center><font color="red" size="117"><b>H E R O K U</b></font></center>
   <div align="center">
     <h3>CRUD Heroku with Postgresql<br>jancukers.com</h3>
       <p><?php
