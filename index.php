@@ -47,7 +47,7 @@ include "connection.php";
           <td><?php echo $data['nama_data'] ?></td>
           <td><?php echo $data['alamat_data'] ?></td>
         </tr>
-        <?php print_r($data) } ?>
+        <?php } print_r($data) ?>
       </tbody>
     </table>
   </div>
