@@ -39,7 +39,7 @@ include "connection.php";
               $query = $pdo->prepare("SELECT * FROM tugas_data");
               $query->execute();
               $rowCount = $query->rowCount();
-              $data = $query->fetch() {
+              while($data = $query->fetch()) {
               ?>
         <tr>
           <td style="text-align: center;"><?php echo $no++; ?></td>
