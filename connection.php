@@ -8,7 +8,7 @@ $password = "d1ec31b2868f9070413367ba19c26f79b439365709fb6a90f6e5fb227cc8830a";
 
 try{
     //Set DSN Data Source Name
-    $dsn = "pgsql:host" . $host . ";
+    $dsn = "pgsql:host=" . $host . ";
                   port=" . $port . ";
                   dbname=" . $dbname . ";
                   user=" . $user . ";
