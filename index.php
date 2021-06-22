@@ -35,13 +35,18 @@ include "connection.php";
         </tr>
       </thead>
       <tbody>
+        <?php $query = $pdo->prepare("SELECT * FROM tugas_data");
+              $query->execute();
+              while($data = $query->fetch()){
+              ?>
         <?php $no = 1; ?>
         <tr>
           <td style="text-align: center;"><?php echo $no++; ?></td>
-          <td>11722711</td>
-          <td>John</td>
-          <td>New York</td>
+          <td><?php echo $data['id_data'] ?></td>
+          <td><?php echo $data['nama_data'] ?></td>
+          <td><?php echo $data['alamat_data'] ?></td>
         </tr>
+        <?php } ?>
       </tbody>
     </table>
   </div>
