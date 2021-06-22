@@ -35,10 +35,10 @@ include "connection.php";
         </tr>
       </thead>
       <tbody>
-        <?php $no = 1; ?>
-        <?php $query = $pdo->prepare("SELECT * FROM tugas_data");
+        <?php $no = 1;
+              $query = $pdo->prepare("SELECT * FROM tugas_data");
               $query->execute();
-              while($data = $query->fetch()){
+              while($data = $query->fetch()) {
               ?>
         <tr>
           <td style="text-align: center;"><?php echo $no++; ?></td>
