@@ -38,7 +38,8 @@ include "connection.php";
         <?php $no = 1;
               $query = $pdo->prepare("SELECT * FROM tugas_data");
               $query->execute();
-              while($data = $query->fetch()) {
+              $rowCount = $query->rowCount();
+              $data = $query->fetch() {
               ?>
         <tr>
           <td style="text-align: center;"><?php echo $no++; ?></td>
@@ -46,7 +47,7 @@ include "connection.php";
           <td><?php echo $data['nama_data'] ?></td>
           <td><?php echo $data['alamat_data'] ?></td>
         </tr>
-        <?php } ?>
+        <?php print_r($data) } ?>
       </tbody>
     </table>
   </div>
