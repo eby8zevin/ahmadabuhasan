@@ -35,13 +35,6 @@ include "connection.php";
         </tr>
       </thead>
       <tbody>
-        <?php $no = 1;
-              $query = $pdo->prepare("SELECT * FROM tugas_data");
-              $query->execute();
-              $rowCount = $query->rowCount();
-              $data = $query->fetch();
-              print_r($data)
-              ?>
         <tr>
           <td style="text-align: center;"><?php echo $no++; ?></td>
           <td><?php echo $data['nim_data'] ?></td>
@@ -53,5 +46,13 @@ include "connection.php";
     </table>
   </div>
 
+ <?php
+              $query = $pdo->prepare("SELECT * FROM tugas_data");
+              $query->execute();
+              $rowCount = $query->rowCount();
+              $data = $query->fetch();
+              print_r($data)
+              ?>
+  
 </body>
 </html>
