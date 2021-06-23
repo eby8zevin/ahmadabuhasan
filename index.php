@@ -46,13 +46,17 @@ include "connection.php";
     </table>
   </div>
 
- <?php
-              $query = $pdo->prepare("SELECT * FROM tugas_data");
-              $query->execute();
-              $rowCount = $query->rowCount();
-              $data = $query->fetch();
-              print_r($data)
-              ?>
+<?php
+  //echo 'This is Index Page';
+
+  $sql = 'SELECT * FROM tugas_data';
+  $stmt = $pdo->prepare($sql);
+  $stmt->execute();
+  $rowCount = $stmt->rowCount();
+  $details = $stmt->fetch();
+
+  print_r ($details);
+?>
   
 </body>
 </html>
