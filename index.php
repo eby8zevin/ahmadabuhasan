@@ -37,11 +37,10 @@ include "connection.php";
       <tbody>
         <tr>
           <td style="text-align: center;"><?php echo $no++; ?></td>
-          <td><?php echo $data['nim_data'] ?></td>
-          <td><?php echo $data['nama_data'] ?></td>
-          <td><?php echo $data['alamat_data'] ?></td>
+          <td></td>
+          <td></td>
+          <td></td>
         </tr>
-        <?php ?>
       </tbody>
     </table>
   </div>
