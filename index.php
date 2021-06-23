@@ -36,7 +36,7 @@ include "connection.php";
       </thead>
       <tbody>
         <tr>
-          <td style="text-align: center;"><?php echo $no++; ?></td>
+          <td style="text-align: center;"></td>
           <td></td>
           <td></td>
           <td></td>
