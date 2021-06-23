@@ -25,24 +25,6 @@ include "connection.php";
         date_default_timezone_set('Asia/Jakarta');
         echo date('d F Y H:i:s'); 
       ?></p>
-    <table border="1" width="700px">
-      <thead>
-        <tr>
-          <th>No</th>
-          <th>NIM</th>
-          <th>Name</th>
-          <th>Address</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td style="text-align: center;"></td>
-          <td></td>
-          <td></td>
-          <td></td>
-        </tr>
-      </tbody>
-    </table>
   </div>
   
 </body>
