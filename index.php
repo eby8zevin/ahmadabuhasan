@@ -1,3 +1,6 @@
+<?php
+require 'connection.php';
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -33,6 +36,10 @@
   $details = $stmt->fetch();
 
   print_r ($details);
+?>
+
+<?php
+echo "<p>Copyright &copy; 1997-" . date("Y") . " ahmadabuhasan.me</p>";
 ?>
   
 </body>
