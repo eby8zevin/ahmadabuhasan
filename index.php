@@ -1,6 +1,7 @@
 <?php
-require 'connection.php';
+include 'connection.php';
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -17,7 +18,7 @@ require 'connection.php';
 </head>
 <body>
   
-  <center><font color="red" size="124"><b>H E R O K U</b></font></center>
+  <center><font color="red" size="125"><b>H E R O K U</b></font></center>
   <div align="center">
     <h3>CRUD Heroku with Postgresql<br>jancukers.com</h3>
       <p><?php
