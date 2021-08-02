@@ -18,13 +18,14 @@ include 'connection.php';
 </head>
 <body>
   
-  <center><font color="red" size="127"><b>H E R O K U</b></font></center>
+  <center><font color="red" size="128"><b>H E R O K U</b></font></center>
   <div align="center">
     <h3>CRUD Heroku with Postgresql<br>jancukers.com</h3>
       <p><?php
         date_default_timezone_set('Asia/Jakarta');
         echo date('d F Y H:i:s'); 
       ?></p>
+    <?php echo "<p>Copyright &copy; 1997-" . date("Y") . " ahmadabuhasan.me</p>"; ?>
   </div>
   
 <?php
@@ -37,10 +38,6 @@ include 'connection.php';
   $details = $stmt->fetch();
 
   print_r ($details);
-?>
-
-<?php
-echo "<p>Copyright &copy; 1997-" . date("Y") . " ahmadabuhasan.me</p>";
 ?>
   
 </body>
