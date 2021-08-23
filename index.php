@@ -23,7 +23,7 @@
       ?></p>
   </div>
 
-  <footer>
+  <footer align="center">
     <?php echo "<p>Copyright &copy; 1997-" . date("Y") . " ahmadabuhasan.me</p>"; ?>
   </footer>
 
