@@ -16,7 +16,7 @@
 
   <center><font color="red" size="666"><b>H E R O K U</b></font></center>
   <div align="center">
-    <h3>CRUD Heroku with Postgresql<br>jancukers.com</h3>
+    <h3>CRUD Heroku with PostgresSQL</h3>
       <p><?php
         date_default_timezone_set('Asia/Jakarta');
         echo date('d F Y H:i:s'); 
