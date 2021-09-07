@@ -24,7 +24,8 @@
   </div>
 
   <footer align="center">
-    <?php echo "<p>Copyright &copy; 1945-" . date("Y") . " ahmadabuhasan.me</p>"; ?>
+    <?php echo "<p>Copyright &copy; 1945-" . date("Y") ;?>
+    <a href="ahmadabuhasan.me">ahmadabuhasan.me</a> ?>
   </footer>
 
 </body>
