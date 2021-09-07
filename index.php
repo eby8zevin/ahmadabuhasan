@@ -25,7 +25,7 @@
 
   <footer align="center">
     <?php echo "<p>Copyright &copy; 1945-" . date("Y") ;?>
-    <a href="ahmadabuhasan.me">ahmadabuhasan.me</a> ?>
+    <a href="https://ahmadabuhasan.me">ahmadabuhasan.me</a>
   </footer>
 
 </body>
