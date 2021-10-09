@@ -29,7 +29,7 @@
   $query = "SELECT * FROM tugas_data; 
   $rs = pg_query($con, $query) or die("Cannot execute query: $query\n");
   while ($row = pg_fetch_row($rs)) {
-  echo "$row[0] $row[1] $row[2]\n";
+  echo "$row[0]";
   }
   pg_close($con); 
   ?>
