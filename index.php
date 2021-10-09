@@ -25,15 +25,6 @@
       ?></p>
   </div>
   
-  <?php
-  $query = "SELECT * FROM tugas_data; 
-  $rs = pg_query($con, $query) or die("Cannot execute query: $query\n");
-  while ($row = pg_fetch_row($rs)) {
-  echo "$row[0]";
-  }
-  pg_close($con); 
-  ?>
-  
   <footer align="center">
     <?php echo "<p>Copyright &copy; 1945-" . date("Y") ;?>
     <a href="https://ahmadabuhasan.me">ahmadabuhasan.me</a>
