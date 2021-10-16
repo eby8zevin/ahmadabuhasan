@@ -16,7 +16,7 @@
 </head>
 <body>
 
-  <center><font color="red" size="696"><b>C R U D</b></font></center>
+  <center><font color="red" size="666"><b>C R U D</b></font></center>
   <div align="center">
     <h3>Heroku & PostgreSQL</h3>
       <p><?php
@@ -24,7 +24,7 @@
         echo date('d F Y H:i:s'); 
       ?></p>
   </div>
-  
+ 
   <footer align="center">
     <?php echo "<p>Copyright &copy; 1945-" . date("Y") ;?>
     <a href="https://ahmadabuhasan.me">ahmadabuhasan.me</a>
