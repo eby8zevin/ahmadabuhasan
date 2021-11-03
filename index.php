@@ -28,8 +28,8 @@
   <?php
   $result = pg_query($con,"SELECT id_data FROM tugas_data");
   while($row=pg_fetch_assoc($result)){
-    . $row['id_data'] .
-    . $row['nim_data'] . }
+    echo ($row['id_data']);
+    echo ($row['nim_data']); }
   ?>
  
   <footer align="center">
