@@ -24,6 +24,13 @@
         echo date('d F Y H:i:s'); 
       ?></p>
   </div>
+  
+  <?php
+  $result = pg_query($con,"SELECT id_data FROM tugas_data");
+  while($row=pg_fetch_assoc($result)){
+    . $row['id_data'] .
+    . $row['nim_data'] . }
+  ?>
  
   <footer align="center">
     <?php echo "<p>Copyright &copy; 1945-" . date("Y") ;?>
