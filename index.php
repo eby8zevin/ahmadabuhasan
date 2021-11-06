@@ -16,7 +16,7 @@
 </head>
 <body>
 
-  <center><font color="red" size="696"><b>C R U D</b></font></center>
+  <center><font color="red" size="666"><b>C R U D</b></font></center>
   <div align="center">
     <h3>Heroku & PostgreSQL</h3>
       <p><?php
@@ -29,7 +29,8 @@
   $result = pg_query($con,"SELECT id_data FROM tugas_data");
   while($row=pg_fetch_assoc($result)){
     echo ($row['id_data']);
-    echo ($row['nim_data']); }
+    echo ($row['nim_data']);
+    echo ($row['nama_data']); }
   ?>
  
   <footer align="center">
