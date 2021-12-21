@@ -30,9 +30,9 @@ include ('config/db.php');
       <?php
       $result = pg_query($con, "SELECT Id_data FROM tugas_data");
       while ($row = pg_fetch_assoc($result)) {
-         echo ($row['id_data']);
-         echo ($row['nim_data']);
-         echo ($row['nama_data']); }
+         echo ($row['Id_data']);
+         echo ($row['Nim_data']);
+         echo ($row['Nama_data']); }
       ?>
      
       <footer align="center">
