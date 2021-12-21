@@ -28,7 +28,7 @@ include ('config/db.php');
       </div>
      
       <?php
-      $result = pg_query($con, "SELECT Id_data FROM tugas_data");
+      $result = pg_query($con, "SELECT Id_data FROM CREATE_TABLE");
       while ($row = pg_fetch_assoc($result)) {
          echo ($row['Id_data']);
          echo ($row['Nim_data']);
