@@ -1,4 +1,4 @@
-<?php include ('config/db.php')?>
+<?php include ('config/db.php') ?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -18,22 +18,23 @@
       <center><font color="red" size="666"><b>C R U D</b></font></center>
       <div align="center">
          <h3>Heroku & PostgreSQL</h3>
-         <p><?php
-            date_default_timezone_set('Asia/Jakarta');
-            echo date('d F Y H:i:s'); 
-            ?></p>
+         <p>
+            <?php date_default_timezone_set('Asia/Jakarta');
+                  echo date('d F Y H:i:s');
+            ?>
+         </p>
       </div>
      
       <?php
-         $result = pg_query($con,"SELECT id_data FROM tugas_data");
-         while($row=pg_fetch_assoc($result)){
-           echo ($row['id_data']);
-           echo ($row['nim_data']);
-           echo ($row['nama_data']); }
-         ?>
+      $result = pg_query($con, "SELECT id_data FROM tugas_data");
+      while ($row = pg_fetch_assoc($result)) {
+         echo ($row['id_data']);
+         echo ($row['nim_data']);
+         echo ($row['nama_data']); }
+      ?>
      
       <footer align="center">
-         <?php echo "<p>Copyright &copy; 1945-" . date("Y") ;?>
+         <?php echo "<p>Copyright &copy; 1945-" . date("Y"); ?>
          <a href="https://ahmadabuhasan.me">ahmadabuhasan.me</a>
       </footer>
      
