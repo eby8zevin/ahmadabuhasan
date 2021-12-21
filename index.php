@@ -27,14 +27,6 @@ include ('config/db.php');
          </p>
       </div>
      
-      <?php
-      $result = pg_execute($con, "SELECT * FROM tugas_data");
-      while ($row = pg_fetch_assoc($result)) {
-         echo ($row['Id_data']);
-         echo ($row['Nim_data']);
-         echo ($row['Nama_data']); }
-      ?>
-     
       <footer align="center">
          <?php echo "<p>Copyright &copy; 1945-" . date("Y"); ?>
          <a href="https://ahmadabuhasan.me">ahmadabuhasan.me</a>
