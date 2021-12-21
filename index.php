@@ -1,4 +1,6 @@
-<?php include ('config/db.php') ?>
+<?php
+include ('config/db.php');
+?>
 
 <!DOCTYPE html>
 <html lang="en">
