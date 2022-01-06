@@ -26,6 +26,16 @@ include ('config/db.php');
             ?>
          </p>
       </div>
+      
+      <?php
+      $sql = 'SELECT * FROM tugas_data';
+      $stmt = $con->prepare($sql);
+      $stmt->execute();
+      $rowCount = $stmt->rowCount();
+      $details = $stmt->fetch();
+      
+      print_r ($details);
+      ?>
      
       <footer align="center">
          <?php echo "<p>Copyright &copy; 1945-" . date("Y"); ?>
