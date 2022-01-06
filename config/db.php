@@ -5,12 +5,20 @@ $user = "mncuhzmbyxppeg";
 $password = "f09da77418af3b555fbebb9fb1a74a568bdd6421c4f70f955d9a6f285c31a838";
 $port = "5432";
 
-$con = pg_connect("host=$host dbname=$dbname user=$user password=$password port=$port sslmode=require");
+try{
+  $dsn = "pgsql:host=" . $host . "; 
+                dbname=" . $dbname . "; 
+                user=" . $user . "; 
+                password=" . $password . ";
+                port=" . $port . "; 
+                sslmode=require";
+  
+  $pdo = new PDO($dsn, $user, $password);
+  $pdo->setAttribute(PDO::ATTR_DEFAULT_FETCH_MODE,PDO::FETCH_OBJ);
+  $pdo->setAttribute(PDO::ATTR_EMULATE_PREPARES,false);
+  $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
-if (!$con)
-{
-  echo "Database connection failed.";
-}else{
-  echo "Database connection success.";
+} catch (PDOException $e) {
+  echo 'Connection failed: ' . $e->getMessage();
 }
 ?>
