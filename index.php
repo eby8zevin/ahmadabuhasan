@@ -27,12 +27,12 @@
       
       <?php
       $sql = 'SELECT * FROM tugas_data';
-      $stmt = $con->prepare($sql);
+      $stmt = $dsn->prepare($sql);
       $stmt->execute();
       $rowCount = $stmt->rowCount();
       $details = $stmt->fetch();
       
-      //print_r ($details);
+      print_r ($details);
       echo $details['Nama_data'];
       ?>
      
