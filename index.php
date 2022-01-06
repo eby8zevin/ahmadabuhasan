@@ -33,6 +33,7 @@
       $details = $stmt->fetch();
       
       //print_r ($details);
+      echo $details['Nama_data'];
       ?>
      
       <footer align="center">
