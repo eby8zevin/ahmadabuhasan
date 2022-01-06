@@ -34,7 +34,7 @@ include ('config/db.php');
       $rowCount = $stmt->rowCount();
       $details = $stmt->fetch();
       
-      print_r ($details);
+      //print_r ($details);
       ?>
      
       <footer align="center">
