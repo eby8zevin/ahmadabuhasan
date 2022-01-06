@@ -27,13 +27,12 @@
       
       <?php
       $sql = 'SELECT * FROM tugas_data';
-      $stmt = $dsn->prepare($sql);
+      $stmt = $pdo->prepare($sql);
       $stmt->execute();
       $rowCount = $stmt->rowCount();
       $details = $stmt->fetch();
       
       print_r ($details);
-      echo $details['Nama_data'];
       ?>
      
       <footer align="center">
