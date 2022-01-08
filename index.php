@@ -27,7 +27,11 @@
       
       <?php
       $sql = 'SELECT * FROM tugas_data';
-      foreach ($conn->query($sql) as $row) {var_dump($row);}
+      foreach ($conn->query($sql) as $row) {
+         print $row['nim_data'] . " ";
+         print $row['nama_data'] . "-->";
+         print $row['alamat_data'] . "<br>";
+      }
       ?>
       
       <footer align="center">
