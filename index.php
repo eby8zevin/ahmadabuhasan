@@ -25,16 +25,8 @@
          </p>
       </div>
       
-      <?php
-      $sql = 'SELECT * FROM tugas_data';
-      $stmt = $pdo->prepare($sql);
-      $stmt->execute();
-      $rowCount = $stmt->rowCount();
-      $details = $stmt->fetch();
+      <?php ?>
       
-      print_r ($details);
-      ?>
-     
       <footer align="center">
          <?php echo "<p>Copyright &copy; 1945-" . date("Y"); ?>
          <a href="https://ahmadabuhasan.me">ahmadabuhasan.me</a>
