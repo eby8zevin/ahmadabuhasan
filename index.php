@@ -1,4 +1,4 @@
-<?php include ('config/db.php')?>
+<?php include ('config/db.php'); ?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -25,7 +25,10 @@
          </p>
       </div>
       
-      <?php ?>
+      <?php
+      $sql = 'SELECT * FROM tugas_data';
+      foreach ($connection->query($sql) as $row) {var_dump($row);}
+      ?>
       
       <footer align="center">
          <?php echo "<p>Copyright &copy; 1945-" . date("Y"); ?>
