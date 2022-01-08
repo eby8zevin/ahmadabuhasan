@@ -27,7 +27,7 @@
       
       <?php
       $sql = 'SELECT * FROM tugas_data';
-      foreach ($connection->query($sql) as $row) {var_dump($row);}
+      foreach ($conn->query($sql) as $row) {var_dump($row);}
       ?>
       
       <footer align="center">
