@@ -7,7 +7,7 @@ $password = "f09da77418af3b555fbebb9fb1a74a568bdd6421c4f70f955d9a6f285c31a838";
 
 $dsn = "pgsql:host=$host;
               dbname=$database;
-              user=$username;
+              user=$user;
               port=$port;  
               password=$password";
 
