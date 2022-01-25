@@ -15,7 +15,7 @@
    </head>
   
    <body>
-      <center><font color="red" size="666"><b>C R U D</b></font></center>
+      <center><font color="red" size="777"><b>C R U D</b></font></center>
       <div align="center">
          <h3>Heroku & PostgreSQL</h3>
          <p>
