@@ -29,8 +29,8 @@
          $sql = "SELECT * FROM tugas_data";
          foreach ($conn->query($sql) as $row) {
             var_dump($row);
-            echo "<br/>";
-            echo $row['id_data'].'-'.$row['nim_data'].'-'.$row['nama_data'].'-'.$row['alamat_data'].'<br/>';
+            print "<br/>";
+            print $row['id_data'].'-'.$row['nim_data'].'-'.$row['nama_data'].'-'.$row['alamat_data'].'<br/>';
         }
       ?>
       
