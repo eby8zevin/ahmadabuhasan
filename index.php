@@ -1,5 +1,5 @@
 <?php 
-include ('config/db.php'); 
+require_once'config/db.php'; 
 $query=$conn->query("SELECT * FROM tugas_data");
 $query->execute();
 $data=$query->fetchAll();
