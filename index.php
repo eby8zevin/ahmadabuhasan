@@ -25,15 +25,6 @@
          </p>
       </div>
       
-      <?php
-         $sql = "SELECT * FROM tugas_data";
-         foreach ($conn->query($sql) as $row) {
-            echo ($row);
-            echo "<br/>";
-            echo $row['id_data'].'-'.$row['nim_data'].'-'.$row['nama_data'].'-'.$row['alamat_data'].'<br/>';
-        }
-      ?>
-      
       <footer align="center">
          <?php echo "<p>Copyright &copy; 1945-" . date("Y"); ?>
          <a href="https://ahmadabuhasan.me">ahmadabuhasan.me</a>
