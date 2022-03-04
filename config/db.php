@@ -14,11 +14,6 @@ $dsn = "pgsql:host=$host;
 try{
   $conn = new PDO($dsn);
   
-  $sql = "SELECT * FROM tugas_data";
-  foreach($conn->query($sql)as $row){
-    echo "<br/>";
-    echo $row['id_data'].'-'.$row['nim_data'].'<br/>';
-  
   if ($conn){
     echo "Connected to the <strong>$db</strong> database successfully!";
   }
