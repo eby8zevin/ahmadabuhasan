@@ -1,4 +1,9 @@
-<?php include ('config/db.php'); ?>
+<?php 
+include ('config/db.php'); 
+$query=$conn->query("SELECT * FROM tugas_data");
+$query->execute();
+$data=$query->fetchAll();
+?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -24,6 +29,25 @@
             ?>
          </p>
       </div>
+      
+      <table border="1">
+         <tr>
+            <td>NIM</td>
+            <td>Name</td>
+            <td>Address</td>
+         </tr>
+         <?php
+         foreach($data as $value){
+            ?>
+         <tr>
+            <td><?php echo $value['nim_data'] ?></td>
+            <td><?php echo $value['nama_data'] ?></td>
+            <td><?php echo $value['alamat_data'] ?></td>
+         </tr>
+         <?php
+         }
+         ?>
+      </table>
       
       <footer align="center">
          <?php echo "<p>Copyright &copy; 1945-" . date("Y"); ?>
