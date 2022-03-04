@@ -26,10 +26,11 @@
       </div>
       
       <?php
-         $sql = 'SELECT * FROM tugas_data';
+         $sql = "SELECT * FROM tugas_data";
          foreach ($conn->query($sql) as $row) {
             var_dump($row);
-            echo $row;
+            echo "<br/>";
+            echo $row['id_data'].'-'.$row['nim_data'].'-'.$row['nama_data'].'-'.['alamat_data'].'<br/>';
         }
       ?>
       
