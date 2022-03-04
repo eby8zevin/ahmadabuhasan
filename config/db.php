@@ -12,13 +12,18 @@ $dsn = "pgsql:host=$host;
               password=$password";
 
 try{
-    $conn = new PDO($dsn);
-
-    if ($conn){
-        echo "Connected to the <strong>$db</strong> database successfully!";
-    }
+  $conn = new PDO($dsn);
+  
+  $sql = "SELECT * FROM tugas_data";
+  foreach($conn->query($sql)as $row){
+    print "<br/>";
+    print $row['id_data'].'-'.$row['nim_data'].'<br/>';
+  
+  if ($conn){
+    echo "Connected to the <strong>$db</strong> database successfully!";
+  }
 } catch (PDOException $e) {
-    echo $e->getMessage();
+  echo $e->getMessage();
 }
 
 ?>
