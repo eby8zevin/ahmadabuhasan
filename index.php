@@ -29,6 +29,7 @@
          $sql = 'SELECT * FROM tugas_data';
          foreach ($conn->query($sql) as $row) {
             var_dump($row);
+            echo $row;
         }
       ?>
       
