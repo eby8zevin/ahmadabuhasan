@@ -15,7 +15,7 @@ require_once 'config/db.php';
       <link rel="icon" type="image/png" sizes="16x16" href="./assets/img/favicon/favicon-16x16.png">
       <link rel="manifest" href="./assets/img/favicon/site.webmanifest">
    </head>
-  
+
    <body>
       <center><font color="red" size="666"><b>C R U D</b></font></center>
       <div align="center">
