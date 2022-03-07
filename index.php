@@ -27,7 +27,7 @@ require_once 'config/db.php';
          </p>
       </div>
       
-      <table border="1">
+      <table border="1" align="center">
          <tr>
             <td>NIM</td>
             <td>Name</td>
