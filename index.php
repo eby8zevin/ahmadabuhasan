@@ -1,8 +1,5 @@
 <?php 
-require_once'config/db.php'; 
-$query=$conn->query("SELECT * FROM tugas_data");
-$query->execute();
-$data=$query->fetchAll();
+require_once 'config/db.php'; 
 ?>
 
 <!DOCTYPE html>
@@ -36,17 +33,11 @@ $data=$query->fetchAll();
             <td>Name</td>
             <td>Address</td>
          </tr>
-         <?php
-         foreach($data as $value){
-            ?>
          <tr>
-            <td><?php echo $value['nim_data'] ?></td>
-            <td><?php echo $value['nama_data'] ?></td>
-            <td><?php echo $value['alamat_data'] ?></td>
+            <td><?php echo "NIM"; ?></td>
+            <td><?php echo "Name"; ?></td>
+            <td><?php echo "Address"; ?></td>
          </tr>
-         <?php
-         }
-         ?>
       </table>
       
       <footer align="center">
