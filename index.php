@@ -92,11 +92,9 @@
             <div class="section-title text-center center">
                 <h2>About Me</h2>
                 <hr>
-                <div class="clearfix"></div>
-                <p>I am a student of Software Engineering at the STMIK Yadika Bangil. I am a passionate Android developer and I am always looking for new challenges to learn and improve my skills. I am currently working as a freelancer and I am looking for new opportunities to work with interesting projects.</p>
-            </div>
+                </div>
             <div class="row">
-                <div class="col-md-12 text-center"<img src="./assets/img/person.jpg" alt="Ahmad Abu Hasan" class="img-responsive"></div>
+                <div class="col-md-12 text-center"><img src="./assets/img/person.jpg" alt="Ahmad Abu Hasan" class="img-responsive"></div>
                 <div class="col-md-8 col-md-offset-2">
                     <div class="about-text">
                         <p style="text-align:center; font-size:25px;">while ( ! (succed = try( ) ) );</p>
