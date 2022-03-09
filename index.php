@@ -94,7 +94,7 @@
                 <hr>
                 </div>
             <div class="row">
-                <div class="col-md-12 text-center"><img src="./assets/img/person.jpg" alt="Ahmad Abu Hasan" class="img-responsive"></div>
+                <div class="col-md-12 text-center"><img src="./assets/img/person.png" alt="Ahmad Abu Hasan" class="img-responsive"></div>
                 <div class="col-md-8 col-md-offset-2">
                     <div class="about-text">
                         <p style="text-align:center; font-size:25px;">while ( ! (succed = try( ) ) );</p>
