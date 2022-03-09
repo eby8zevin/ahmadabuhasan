@@ -1,7 +1,7 @@
 name: Delete Environment (default settings)
 
 on:
-  push:
+  delete:
     branches-ignore:
       - main
 
@@ -14,4 +14,4 @@ jobs:
           # ⚠️ The provided token needs permission for admin write:org
           token: ${{ secrets.GB_TOKEN }}
           environments: uas-web7
-          onlyDeactivateDeployments: true
+          onlyRemoveDeployments: true
