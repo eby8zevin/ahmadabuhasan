@@ -45,14 +45,14 @@
 
     <!-- Navigation -->
     <div id="nav">
-        <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+        <nav class="navbar navbar-custom">
             <div class="container">
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
                         <i class="fa fa-bars"></i>
                     </button>
                     <a class="navbar-brand page-scroll" href="#page-top">
-                        <i class="fa fa-play-circle"></i> <span class="light">Ahmad Abu</span> Hasan
+                        <i class="fa fa-code"></i> <span class="light">Ahmad Abu Hasan</span>
                     </a>
                 </div>
 
@@ -67,7 +67,13 @@
                             <a class="page-scroll" href="#about">About</a>
                         </li>
                         <li>
+                            <a class="page-scroll" href="#skills">Skills</a>
+                        </li>
+                        <li>
                             <a class="page-scroll" href="#portfolio">Portfolio</a>
+                        </li>
+                        <li>
+                            <a class="page-scroll" href="#resume">Resume</a>
                         </li>
                         <li>
                             <a class="page-scroll" href="#contact">Contact</a>
@@ -78,6 +84,31 @@
             </div>
             <!-- /.container -->
         </nav>
+    </div>
+
+    <!-- About Section -->
+    <div id="about">
+        <div class="container">
+            <div class="section-title text-center center">
+                <h2>About Me</h2>
+                <hr>
+                <div class="clearfix"></div>
+                <p>I am a student of Software Engineering at the STMIK Yadika Bangil. I am a passionate Android developer and I am always looking for new challenges to learn and improve my skills. I am currently working as a freelancer and I am looking for new opportunities to work with interesting projects.</p>
+            </div>
+            <div class="row">
+                <div class="col-md-12 text-center"<img src="./assets/img/person.jpg" alt="Ahmad Abu Hasan" class="img-responsive"></div>
+                <div class="col-md-8 col-md-offset-2">
+                    <div class="about-text">
+                        <p style="text-align:center; font-size:25px;">while ( ! (succed = try( ) ) );</p>
+                        <p style="text-align:center; font-size:25px;">"Everybody should learn to program a computer, <br>
+                            because it teaches you how to think." - Steve Jobs</p>
+                        <p class="text-center">
+                            <a class="btn btn-primary btn-lg" href="#"><i class="fa fa-download"></i> Download Resume</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 
     </body>
