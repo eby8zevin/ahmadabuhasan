@@ -2,7 +2,7 @@ name: Delete Environment (default settings)
 
 on:
   delete:
-    branches-ignore:
+    branches:
       - main
 
 jobs:
