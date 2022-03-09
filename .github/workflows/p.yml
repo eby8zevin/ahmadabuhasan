@@ -1,10 +1,7 @@
 name: Delete Environment (default settings)
 
 on:
-  schedule:
-    # Runs at 00:00AM UTC
-    - cron: '0 0 * * *'
-  delete:
+  push:
     branches-ignore:
       - main
 
