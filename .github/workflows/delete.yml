@@ -11,6 +11,7 @@ jobs:
     steps:
       - uses: strumwolf/delete-deployment-environment@v2
         with:
+          # ⚠️ The provided token needs permission for admin write:org
           token: ${{ secrets.TOKEN }}
           environment: uas-web7
           onlyRemoveDeployments: true
