@@ -92,7 +92,7 @@
             <div class="section-title text-center center">
                 <h2>About Me</h2>
                 <hr>
-                </div>
+            </div>
             <div class="row">
                 <div class="col-md-12 text-center"><img src="./assets/img/person.png" alt="Ahmad Abu Hasan" class="img-responsive"></div>
                 <div class="col-md-8 col-md-offset-2">
@@ -108,6 +108,51 @@
             </div>
         </div>
     </div>
+
+    <!-- Skills Section -->
+    <div id="skills" class="text-center">
+        <div class="container">
+            <div class="section-title center">
+                <h2>Skills</h2>
+                <hr>
+            </div>
+            <div class="row"> <!-- Row 1 -->	
+                <div class="col-md-6">
+                    <div class="skill">
+                        <h3>Android</h3>
+                        <div class="progress">
+                            <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%;">
+                                <span class="sr-only">100% Complete</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="skill">
+                        <h3>C</h3>
+                        <div class="progress">
+                            <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%;">
+                                <span class="sr-only">100% Complete</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="skill">
+                        <h3>C++</h3>
+                        <div class="progress">
+                            <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%;">
+                                <span class="sr-only">100% Complete</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="skill">
+                        <h3>C#</h3>
+                        <div class="progress">
+                            <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%;">
+                                <span class="sr-only">100% Complete</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
 
     </body>
 </html>
