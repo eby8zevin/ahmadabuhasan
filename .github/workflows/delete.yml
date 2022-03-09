@@ -2,7 +2,7 @@ name: Delete Environment (default settings)
 
 on:
   delete:
-    branches:
+    branches-ignore:
       - main
 
 jobs:
@@ -12,7 +12,7 @@ jobs:
       - uses: strumwolf/delete-deployment-environment@v2
         with:
           # ⚠️ The provided token needs permission for admin write:org
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GB_TOKEN }}
           environment: uas-web7
           onlyRemoveDeployments: true
           onlyDeactivateDeployments: true
