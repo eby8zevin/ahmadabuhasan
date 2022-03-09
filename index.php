@@ -24,8 +24,24 @@
         <link href='https://fonts.googleapis.com/css?family=Lato:400,700,900,300' rel='stylesheet' type='text/css'>
         <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,800,600,300' rel='stylesheet' type='text/css'>
     </head>
+    <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
 
-    <body>
+    <!-- Header -->
+    <header id="header">
+        <div class="intro">
+            <div class="overlay">
+                <div class="container">
+                    <div class="row">
+                        <div class="intro-text">
+                            <h1>Ahmad Abu Hasan</h1>
+                            <p>Android Developer</p>
+                            <a href="#about" class="btn btn-custom btn-lg page-scroll">About Me</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
 
     </body>
 </html>
