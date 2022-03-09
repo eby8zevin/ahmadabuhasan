@@ -33,7 +33,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="intro-text">
-                            <h1>Hello, I'm <span class"name">Ahmad Abu Hasan</span></h1>
+                            <h1>Hello, I'm <span class="name">Ahmad Abu Hasan</span></h1>
                             <p>Android Developer</p>
                             <a href="#about" class="btn btn-default btn-lg page-scroll">About Me</a>
                         </div>
