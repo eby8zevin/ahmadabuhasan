@@ -13,5 +13,5 @@ jobs:
         with:
           # ⚠️ The provided token needs permission for admin write:org
           token: ${{ secrets.GB_TOKEN }}
-          environment: uas-web7
+          environments: uas-web7
           onlyDeactivateDeployments: true
