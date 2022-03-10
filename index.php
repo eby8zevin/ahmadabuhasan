@@ -157,6 +157,42 @@
         </div>
     </div>
 
+    <!-- Archievements Section -->
+    <div id="archievements" class="text-center">
+        <div class="container">
+            <div class="section-title center">
+                <h2>Github Stats</h2>
+                <hr>
+            </div>
+            <div class="row">
+                <div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="200ms">
+                    <div class="achievement-box">
+                        <span class="count">100</span>
+                        <h4>Total Contributions</h4>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="400ms">
+                    <div class="achievement-box">
+                        <span class="count">1</span>
+                        <h4>Current Streak</h4>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="600ms">
+                    <div class="achievement-box">
+                        <span class="count">50</span>
+                        <h4>Longest Streak</h4>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="800ms">
+                    <div class="achievement-box">
+                        <span class="count">3</span>
+                        <h4>Years of Experience</h4>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <script type="text/javascript" src="assets/js/jquery.1.11.1.js"></script>
     <script type="text/javascript" src="assets/js/bootstrap.js"></script>
     <script type="text/javascript" src="assets/js/SmoothScroll.js"></script>
