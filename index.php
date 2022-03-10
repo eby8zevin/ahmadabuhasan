@@ -157,8 +157,8 @@
         </div>
     </div>
 
-    <!-- Archievements Section -->
-    <div id="archievements" class="text-center">
+    <!-- Achievements Section -->
+    <div id="achievements" class="text-center">
         <div class="container">
             <div class="section-title center">
                 <h2>Github Stats</h2>
@@ -192,6 +192,65 @@
             </div>
         </div>
     </div>
+
+    <!-- Resume Section -->
+    <div id="resume" class="text-center">
+        <div class="container">
+            <div class="section-title center">
+                <h2>Experience</h2>
+                <hr>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <ul class="timeline">
+                        <li>
+                            <div class="timeline-image">
+                                <h4>Jan 2019 <br>
+                                - <br>
+                                Present</h4>
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>Freelancer</h4>
+                                    <h4 class="subheading">Android Developer</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p>I work as Android Developer. I have passion fot the perfect Android Application, interesting and easy to use interfaces. I'm focused, dedicated, hard-working and willing to learn in a changing and challenging environment.</p>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="section-title center">
+                <h2>Education</h2>
+                <hr>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <ul class="timeline">
+                        <li>
+                            <div class="timeline-image">
+                                <h4>2017 <br>
+                                - <br>
+                                Present</h4>
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>STMIK Yadika Bangil</h4>
+                                    <h4 class="subheading">Informatics Engineering Department</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p>Jl. Bader No. 9, Kalirejo Bangil, <br>
+                                    Pasuruan, Jawa Timur, <br>
+                                    Kode POS 67153 <br>
+                                    Website : stmik-yadika.ac.id</p>
+                                </div>
+                            </div>
+                        </li>
+                        
 
     <script type="text/javascript" src="assets/js/jquery.1.11.1.js"></script>
     <script type="text/javascript" src="assets/js/bootstrap.js"></script>
