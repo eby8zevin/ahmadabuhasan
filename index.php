@@ -116,41 +116,43 @@
                 <h2>Skills</h2>
                 <hr>
             </div>
-            <div class="row"> <!-- Row 1 -->	
-                <div class="col-md-6">
-                    <div class="skill">
-                        <h3>Android</h3>
-                        <div class="progress">
-                            <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%;">
-                                <span class="sr-only">100% Complete</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="skill">
-                        <h3>C</h3>
-                        <div class="progress">
-                            <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%;">
-                                <span class="sr-only">100% Complete</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="skill">
-                        <h3>C++</h3>
-                        <div class="progress">
-                            <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%;">
-                                <span class="sr-only">100% Complete</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="skill">
-                        <h3>C#</h3>
-                        <div class="progress">
-                            <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%;">
-                                <span class="sr-only">100% Complete</span>
-                            </div>
-                        </div>
-                    </div>
+            <div class="row"> <!-- Row 1 -->
+                <div class="col-md-4 col-sm-6 skill">
+                    <span class="chart" data-percent="80">
+                        <span class="percent">70</span>
+                    </span>
+                    <h4>Java</h4>
                 </div>
+                <div class="col-md-4 col-sm-6 skill">
+                    <span class="chart" data-percent="90">
+                        <span class="percent">90</span>
+                    </span>
+                    <h4>Android</h4>
+                </div>
+                <div class="col-md-4 col-sm-6 skill">
+                    <span class="chart" data-percent="70">
+                        <span class="percent">70</span>
+                    </span>
+                    <h4>XML</h4>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Portfolio Section -->
+    <div id="portfolio">
+        <div class="container">
+            <div class="section-title text-center center">
+                <h2>Portfolio</h2>
+                <hr>
+            </div>
+            <div class="type">
+                <ul>
+                    <li><a href="#">Fireworks</a></li>
+                    <li><a href="#">Happy New Year 2021</a></li>
+                    <li><a href="#">Merry Christmas</a></li>
+                    <li><a href="#">Solar Eclipse</a></li>
+                </ul>
             </div>
         </div>
     </div>
