@@ -235,7 +235,7 @@
                             <div class="timeline-image">
                                 <h4>2017 <br>
                                 - <br>
-                                Present</h4>
+                                2021</h4>
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
@@ -270,11 +270,34 @@
                                 </div>
                             </div>
                         </li>
+                        <li>
+                            <div class="timeline-image">
+                                <h4>2009 <br>
+                                - <br>
+                                2012</h4>
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>SMP Negeri 2 Kraton</h4>
+                                    <h4 class="subheading">Middle School</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">Jl. Pondok Pesantren Terpadu Al-Yasini, <br>
+                                    Ngabar Kraton, Pasuruan, Jawa Timur, <br>
+                                    Kode POS 67151 - Telp. 0343-424435 <br>
+                                    Email : smpn2_kraton[at]yahoo.co.id <br>
+                                    Website : https://www.smpn2kraton.sch.id</p>
+                                </div>
+                            </div>
+                        </li>
                     </ul>
                 </div>
             </div>
         </div>
     </div>
+
+    <!-- Contact Section -->
+
 
     <script type="text/javascript" src="assets/js/jquery.1.11.1.js"></script>
     <script type="text/javascript" src="assets/js/bootstrap.js"></script>
