@@ -262,7 +262,7 @@
                                     <h4 class="subheading">Multimedia (MM)</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p>Jl. Ngampel Raya, RT.04/RW.01, Ngampel, <br>
+                                    <p>Jl. Ngampel Raya, RT.04/RW.01, Kel. Ngampel, <br>
                                     Kec. Mojoroto, Kota Kediri, Jawa Timur, <br>
                                     Kode POS 64112 - Telp. 0354-780247 <br>
                                     Email : info[at]smkalmahrusiyah.sch.id <br>
@@ -285,7 +285,7 @@
                                     <p class="text-muted">Jl. Pondok Pesantren Terpadu Al-Yasini, <br>
                                     Ngabar Kraton, Pasuruan, Jawa Timur, <br>
                                     Kode POS 67151 - Telp. 0343-424435 <br>
-                                    Email : smpn2_kraton[at]yahoo.co.id <br>
+                                    Email :  smp2kraton[at]gmail.com <br>
                                     Website : https://www.smpn2kraton.sch.id</p>
                                 </div>
                             </div>
@@ -297,7 +297,89 @@
     </div>
 
     <!-- Contact Section -->
+    <div id="contact" class="text-center">
+        <div class="container">
+            <div class="section-title center">
+                <h2>Contact</h2>
+                <hr>
+            </div>
+            <div class="col-md-8 col-md-offset-2">
+                <div class="col-md-4">
+                    <i class="fa fa-map-marker fa-2x"></i>
+                    <p>Pasuruan City, <br>
+                    East Java, ID 67137</p>
+                </div>
+                <div class="col-md-4">
+                    <i class="fa fa-envelope-o fa-2x"></i>
+                    <p>ahmadabuhasan <br>
+                    [at]mhs.stmik-yadika.ac.id</p>
+                </div>
+                <div class="col-md-4">
+                    <i class="fa fa-phone fa-2x"></i>
+                    <p>+62 819-7733-2483</p>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+            <div class="col-md-8 col-md-offset-2">
+                <h3>Leave me a message</h3>
+                <form name="sentMessage" id="contactForm" novalidate>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <input type="text" id="name" class="form-control" placeholder="Name" required="required">
+                                <p class="help-block text-danger"></p>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <input type="email" id="email" class="form-control" placeholder="email" required="required">
+                                <p class="help-block text-danger"></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <textarea name="message" id="message" class="form-control" rows="4" placeholder="Message" required></textarea>
+                        <p class="help-block text-danger"></p>
+                    </div>
+                    <div id="success"></div>
+                    <button type="submit" class="btn btn-default">Send Message</button>
+                </form>
 
+                <div class="social">
+                    <ul>
+                        <li><a href="https://www.facebook.com/profile.php?id=100001555488554">
+                            <i class="fa fa-facebook"></i>
+                            </a>
+                        </li>
+                        <li><a href="https://www.twitter.com/ebyalvaro">
+                            <i class="fa fa-twitter"></i>
+                            </a>
+                        </li>
+                        <li><a href="https://www.instagram.com/eby8zevin">
+                            <i class="fa fa-instagram"></i>
+                            </a>
+                        <li><a href="https://www.github.com/eby8zevin">
+                            <i class="fa fa-github"></i>
+                            </a>
+                        </li>
+                        <li><a href="https://www.linkedin.com/in/ahmadabuhasan">
+                            <i class="fa fa-linkedin"></i>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <div id="footer">
+        <div class="container text-center">
+            <div class="fnav">
+                <p>Copyright &copy; <?php echo date ("Y"); ?> - Ahmad Abu Hasan</p>
+            </div>
+        </div>
+    </div>
 
     <script type="text/javascript" src="assets/js/jquery.1.11.1.js"></script>
     <script type="text/javascript" src="assets/js/bootstrap.js"></script>
