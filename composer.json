@@ -1,0 +1,13 @@
+{
+    "name": "ahmadabuhasan/website",
+    "description": "Portfolio",
+    "type": "project",
+    "license": "MIT",
+    "author": [
+        {
+            "name": "Ahmad Abu Hasan",
+            "email": "ahmadabuhasan@mhs.stmik-yadika.ac.id"
+        }
+    ],
+    "require": {}
+}
