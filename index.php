@@ -250,7 +250,31 @@
                                 </div>
                             </div>
                         </li>
-                        
+                        <li class="timeline-inverted">
+                            <div class="timeline-image">
+                                <h4>2012 <br>
+                                - <br>
+                                2015</h4>
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>SMK Al-Mahrusiyah Kediri</h4>
+                                    <h4 class="subheading">Multimedia (MM)</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p>Jl. Ngampel Raya, RT.04/RW.01, Ngampel, <br>
+                                    Kec. Mojoroto, Kota Kediri, Jawa Timur, <br>
+                                    Kode POS 64112 - Telp. 0354-780247 <br>
+                                    Email : info[at]smkalmahrusiyah.sch.id <br>
+                                    Website : smkalmahrusiyah.sch.id</p>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <script type="text/javascript" src="assets/js/jquery.1.11.1.js"></script>
     <script type="text/javascript" src="assets/js/bootstrap.js"></script>
