@@ -167,7 +167,7 @@
             <div class="row">
                 <div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="200ms">
                     <div class="achievement-box">
-                        <span class="count">5452</span>
+                        <span class="count">5453</span>
                         <h4>Total Contributions</h4>
                     </div>
                 </div>
