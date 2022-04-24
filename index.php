@@ -150,34 +150,14 @@
                 <ul class="cat">
                     <li>
                         <ol class="type">
-                            <li><a href="#" data-filter="*" class="active">All</a></li>
-                            <li><a href="#" data-filter=".web">Fireworks</a></li>
-                            <li><a href="#" data-filter=".web">Merry Christmas</a></li>
-                            <li><a href="#" data-filter=".web">Happy New Year 2021</a></li>
-                            <li><a href="#" data-filter=".app">Solar Eclipse</a></li>
+                            <li><a href="#">Fireworks</a></li>
+                            <li><a href="#">Merry Christmas</a></li>
+                            <li><a href="#">Happy New Year 2021</a></li>
+                            <li><a href="#">Solar Eclipse</a></li>
                         </ol>
                     </li>
                 </ul>
                 <div class="clearfix"></div>
-            </div>
-            <div class="row">
-                <div class="portfolio-items">
-                    <div class="col-sm-6 col-md-3 col-lg-3 web">
-                        <div class="portfolio-item">
-                            <div class="hover-bg">
-                                <a href="assets/img/portfolio/01-large.jpg" title="Project description" rel="prettyPhoto" data-lightbox-gallery="gallery1">
-                                    <div class="hover-text">
-                                        <h4>Project Title</h4>
-                                        <small>Web Design</small>
-                                        <div class="clearfix"></div>
-                                        <i class="fa fa-plus"></i>
-                                    </div>
-                                    <img src="assets/img/portfolio/01-small.jpg" class="img-responsive" alt="Project Title">
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
             </div>
         </div>
     </div>
