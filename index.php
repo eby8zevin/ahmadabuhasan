@@ -151,7 +151,7 @@
                     <li><a href="./portfolio/fireworks/index.html">Fireworks</a></li>
                     <li><a href="./portfolio/merry-christmas/index.html">Merry Christmas</a></li>
                     <li><a href="./portfolio/happy-new-year-2021/index.html">Happy New Year 2021</a></li>
-                    <li><a href="#">Solar Eclipse</a></li>
+                    <li><a href="./portfolio/solar-eclipse/index.html">Solar Eclipse</a></li>
                 </ol>
             <div class="clearfix"></div>
             </div>
