@@ -147,16 +147,14 @@
                 <hr>
             </div>
             <div class="categories">
-                <ul class="cat">
-                    <li>
-                        <ol class="type">
-                            <li><a href="./portfolio/fireworks/index.html">Fireworks</a></li>
-                            <li><a href="#">Merry Christmas</a></li>
-                            <li><a href="#">Happy New Year 2021</a></li>
-                            <li><a href="#">Solar Eclipse</a></li>
-                        </ol>
-                    </li>
-                </ul>
+                <li>
+                    <ol class="type">
+                        <li><a href="./portfolio/fireworks/index.html">Fireworks</a></li>
+                        <li><a href="#">Merry Christmas</a></li>
+                        <li><a href="#">Happy New Year 2021</a></li>
+                        <li><a href="#">Solar Eclipse</a></li>
+                    </ol>
+                </li>
                 <div class="clearfix"></div>
             </div>
         </div>
