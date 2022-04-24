@@ -167,13 +167,13 @@
             <div class="row">
                 <div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="200ms">
                     <div class="achievement-box">
-                        <span class="count">5491</span>
+                        <span class="count">5506</span>
                         <h4>Total Contributions</h4>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="400ms">
                     <div class="achievement-box">
-                        <span class="count">55</span>
+                        <span class="count">57</span>
                         <h4>Current Streak</h4>
                     </div>
                 </div>
