@@ -151,8 +151,10 @@
                     <li>
                         <ol class="type">
                             <li><a href="#" data-filter="*" class="active">All</a></li>
-                            <li><a href="#" data-filter=".web">Web Design</a></li>
-                            <li><a href="#" data-filter=".app">App Development</a></li>
+                            <li><a href="#" data-filter=".web">Fireworks</a></li>
+                            <li><a href="#" data-filter=".web">Merry Christmas</a></li>
+                            <li><a href="#" data-filter=".web">Happy New Year 2021</a></li>
+                            <li><a href="#" data-filter=".app">Solar Eclipse</a></li>
                         </ol>
                     </li>
                 </ul>
@@ -176,15 +178,6 @@
                         </div>
                     </div>
                 </div>
-            </div>
-
-            <div class="type">
-                <ul>
-                    <li><a href="#">Fireworks</a></li>
-                    <li><a href="#">Happy New Year 2021</a></li>
-                    <li><a href="#">Merry Christmas</a></li>
-                    <li><a href="#">Solar Eclipse</a></li>
-                </ul>
             </div>
         </div>
     </div>
