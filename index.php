@@ -168,21 +168,13 @@
             <div class="row">
                 <div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="200ms">
                     <div class="achievement-box">
-<<<<<<< HEAD
                         <span class="count">5542</span>
-=======
-                        <span class="count">5541</span>
->>>>>>> 4393140d396523203d61cb2d0ee8933485213d6c
                         <h4>Total Contributions</h4>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="400ms">
                     <div class="achievement-box">
-<<<<<<< HEAD
                         <span class="count">62</span>
-=======
-                        <span class="count">61</span>
->>>>>>> 4393140d396523203d61cb2d0ee8933485213d6c
                         <h4>Current Streak</h4>
                     </div>
                 </div>
