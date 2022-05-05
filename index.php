@@ -119,7 +119,7 @@
             <div class="row"> <!-- Row 1 -->
                 <div class="col-md-4 col-sm-6 skill">
                     <span class="chart" data-percent="80">
-                        <span class="percent">70</span>
+                        <span class="percent">80</span>
                     </span>
                     <h4>Java</h4>
                 </div>
