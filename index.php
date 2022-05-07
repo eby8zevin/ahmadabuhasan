@@ -162,7 +162,7 @@
     <div id="achievements" class="text-center">
         <div class="container">
             <div class="section-title center">
-                <h2>Github Stats</h2>
+                <h2>Github Stat</h2>
                 <hr>
             </div>
             <div class="row">
