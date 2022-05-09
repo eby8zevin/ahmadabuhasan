@@ -162,19 +162,19 @@
     <div id="achievements" class="text-center">
         <div class="container">
             <div class="section-title center">
-                <h2>Github Stat</h2>
+                <h2>Github Stats</h2>
                 <hr>
             </div>
             <div class="row">
                 <div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="200ms">
                     <div class="achievement-box">
-                        <span class="count">5755</span>
+                        <span class="count">5772</span>
                         <h4>Total Contributions</h4>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="400ms">
                     <div class="achievement-box">
-                        <span class="count">70</span>
+                        <span class="count">72</span>
                         <h4>Current Streak</h4>
                     </div>
                 </div>
