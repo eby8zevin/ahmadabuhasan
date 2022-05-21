@@ -118,22 +118,22 @@
             </div>
             <div class="row"> <!-- Row 1 -->
                 <div class="col-md-4 col-sm-6 skill">
-                    <span class="chart" data-percent="80">
-                        <span class="percent">80</span>
-                    </span>
-                    <h4>Java</h4>
-                </div>
-                <div class="col-md-4 col-sm-6 skill">
                     <span class="chart" data-percent="90">
                         <span class="percent">90</span>
                     </span>
-                    <h4>Android</h4>
+                    <h4>Android - Java</h4>
                 </div>
                 <div class="col-md-4 col-sm-6 skill">
-                    <span class="chart" data-percent="70">
-                        <span class="percent">70</span>
+                    <span class="chart" data-percent="60">
+                        <span class="percent">60</span>
                     </span>
-                    <h4>XML</h4>
+                    <h4>PHP</h4>
+                </div>
+                <div class="col-md-4 col-sm-6 skill">
+                    <span class="chart" data-percent="60">
+                        <span class="percent">60</span>
+                    </span>
+                    <h4>MySQL</h4>
                 </div>
             </div>
         </div>
@@ -168,13 +168,13 @@
             <div class="row">
                 <div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="200ms">
                     <div class="achievement-box">
-                        <span class="count">6064</span>
+                        <span class="count">6148</span>
                         <h4>Total Contributions</h4>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="400ms">
                     <div class="achievement-box">
-                        <span class="count">80</span>
+                        <span class="count">84</span>
                         <h4>Current Streak</h4>
                     </div>
                 </div>
