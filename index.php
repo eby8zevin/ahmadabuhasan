@@ -164,12 +164,12 @@
                     <div class="col-sm-6 col-md-3 col-lg-3 web">
                         <div class="portfolio-item">
                             <div class="hover-bg">
-                                <a href="./assets/img/portfolio/01-large.png" title="https://github.com/eby8zevin/PhpMySQLi-MarketPlace" data-lightbox-gallery="prettyPhoto">
+                                <a href="./assets/img/portfolio/01-large.png" title="https://github.com/eby8zevin/PhpMySQLi-MarketPlace" rel="prettyPhoto">
                                     <div class="hover-text">
                                         <h4>Marketplace</h4>
                                         <small>Web Development</small>
                                         <div class="clearfix"></div>
-                                        <i class="fa fa-plus"></i>
+                                        <i class="fa fa-globe"></i>
                                     </div>
                                     <img src="./assets/img/portfolio/01-small.png" class="img-responsive" alt="https://github.com/eby8zevin/PhpMySQLi-MarketPlace">
                                 </a>
@@ -179,12 +179,12 @@
                     <div class="col-sm-6 col-md-3 col-lg-3 app">
                         <div class="portfolio-item">
                             <div class="hover-bg">
-                                <a href="./assets/img/portfolio/02-large.png" title="https://github.com/eby8zevin/Android-QRBarcode" data-lightbox-gallery="prettyPhoto">
+                                <a href="./assets/img/portfolio/02-large.png" title="https://github.com/eby8zevin/Android-QRBarcode" rel="prettyPhoto">
                                     <div class="hover-text">
                                         <h4>QRBarcode</h4>
                                         <small>App Development</small>
                                         <div class="clearfix"></div>
-                                        <i class="fa fa-plus"></i>
+                                        <i class="fa fa-android"></i>
                                     </div>
                                     <img src="./assets/img/portfolio/02-small.png" class="img-responsive" alt="https://github.com/eby8zevin/Android-QRBarcode">
                                 </a>
@@ -199,7 +199,7 @@
                                         <h4>Guest Book</h4>
                                         <small>Web Development</small>
                                         <div class="clearfix"></div>
-                                        <i class="fa fa-plus"></i>
+                                        <i class="fa fa-globe"></i>
                                     </div>
                                     <img src="./assets/img/portfolio/03-small.png" class="img-responsive" alt="https://github.com/eby8zevin/UAS7-PemrogramanWebLanjut">
                                 </a>
@@ -209,12 +209,12 @@
                     <div class="col-sm-6 col-md-3 col-lg-3 app">
                         <div class="portfolio-item">
                             <div class="hover-bg">
-                                <a href="./assets/img/portfolio/04-large.jpg" title="Project description" data-lightbox-gallery="gallery1">
+                                <a href="./assets/img/portfolio/04-large.jpg" title="Project description" rel="prettyPhoto">
                                     <div class="hover-text">
                                         <h4>Project Title</h4>
                                         <small>App Development</small>
                                         <div class="clearfix"></div>
-                                        <i class="fa fa-plus"></i>
+                                        <i class="fa fa-android"></i>
                                     </div>
                                     <img src="./assets/img/portfolio/04-small.jpg" class="img-responsive" alt="Project Title">
                                 </a>
@@ -224,7 +224,7 @@
                     <div class="col-sm-6 col-md-3 col-lg-3 branding">
                         <div class="portfolio-item">
                             <div class="hover-bg">
-                                <a href="./assets/img/portfolio/05-large.jpg" title="Project description" data-lightbox-gallery="gallery1">
+                                <a href="./assets/img/portfolio/05-large.jpg" title="Project description" rel="prettyPhoto">
                                     <div class="hover-text">
                                         <h4>Project Title</h4>
                                         <small>Branding</small>
@@ -239,7 +239,7 @@
                     <div class="col-sm-6 col-md-3 col-lg-3 branding app">
                         <div class="portfolio-item">
                             <div class="hover-bg">
-                                <a href="./assets/img/portfolio/06-large.jpg" title="Project description" data-lightbox-gallery="gallery1">
+                                <a href="./assets/img/portfolio/06-large.jpg" title="Project description" rel="prettyPhoto">
                                     <div class="hover-text">
                                         <h4>Project Title</h4>
                                         <small>Branding</small>
@@ -254,7 +254,7 @@
                     <div class="col-sm-6 col-md-3 col-lg-3 web">
                         <div class="portfolio-item">
                             <div class="hover-bg">
-                                <a href="./assets/img/portfolio/07-large.jpg" title="Project description" data-lightbox-gallery="gallery1">
+                                <a href="./assets/img/portfolio/07-large.jpg" title="Project description" rel="prettyPhoto">
                                     <div class="hover-text">
                                         <h4>Project Title</h4>
                                         <small>Web Design</small>
@@ -269,7 +269,7 @@
                     <div class="col-sm-6 col-md-3 col-lg-3 app">
                         <div class="portfolio-item">
                             <div class="hover-bg">
-                                <a href="./assets/img/portfolio/08-large.jpg" title="Project description" data-lightbox-gallery="gallery1">
+                                <a href="./assets/img/portfolio/08-large.jpg" title="Project description" rel="prettyPhoto">
                                     <div class="hover-text">
                                         <h4>Project Title</h4>
                                         <small>App Development</small>
