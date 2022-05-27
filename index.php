@@ -164,14 +164,14 @@
                     <div class="col-sm-6 col-md-3 col-lg-3 web">
                         <div class="portfolio-item">
                             <div class="hover-bg">
-                                <a href="./assets/img/portfolio/01-large.png" title="Project description" data-lightbox-gallery="gallery1">
+                                <a href="./assets/img/portfolio/01-large.png" title="https://github.com/eby8zevin/PhpMySQLi-MarketPlace" data-lightbox-gallery="gallery1">
                                     <div class="hover-text">
-                                        <h4>Project Title</h4>
+                                        <h4>Marketplace</h4>
                                         <small>Web Development</small>
                                         <div class="clearfix"></div>
                                         <i class="fa fa-plus"></i>
                                     </div>
-                                    <img src="./assets/img/portfolio/01-small.png" class="img-responsive" alt="Project Title">
+                                    <img src="./assets/img/portfolio/01-small.png" class="img-responsive" alt="https://github.com/eby8zevin/PhpMySQLi-MarketPlace">
                                 </a>
                             </div>
                         </div>
