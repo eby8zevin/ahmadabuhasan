@@ -101,7 +101,7 @@
                         <p style="text-align:center; font-size:25px;">"Everybody should learn to program a computer, <br>
                             because it teaches you how to think." - Steve Jobs</p>
                         <p class="text-center">
-                            <a class="btn btn-primary btn-lg" href="#"><i class="fa fa-download"></i> Download Resume</a>
+                            <a class="btn btn-primary btn-lg" href="https://drive.google.com/file/d/1KfEtQYu9b7gjgDX-cNFplsHH-J7UNmDU/view?usp=sharing" target="_blank"><i class="fa fa-download"></i> Download Resume</a>
                         </p>
                     </div>
                 </div>
@@ -138,81 +138,6 @@
             </div>
         </div>
     </div>
-
-    <!-- Portfolio Section -->
-    <div id="portfolio">
-        <div class="container">
-            <div class="section-title text-center center">
-                <h2>Portfolio</h2>
-                <hr>
-            </div>
-            <div class="categories">
-                <ul class="cat">
-                    <li>
-                        <ol class="type">
-                            <li><a href="#" data-filter="*" class="active">All</a></li>
-                            <li><a href="#" data-filter=".web">Web Design</a></li>
-                            <li><a href="#" data-filter=".app">App Development</a></li>
-                        </ol>
-                    </li>
-                </ul>
-                <div class="clearfix"></div>
-            </div>
-            <div class="row">
-                <div class="portfolio-items">
-                    <div class="col-sm-6 col-md-3 col-lg-3 web">
-                        <div class="portfolio-item">
-                            <div class="hover-bg">
-                                <a href="./assets/img/portfolio/01-large.jpg" title="Project description" data-lightbox-gallery="gallery1">
-                                    <div class="hover-text">
-                                        <h4>Project Title</h4>
-                                        <small>Web Design</small>
-                                        <div class="clearfix"></div>
-                                        <i class="fa fa-plus"></i>
-                                    </div>
-                                    <img src="./assets/img/portfolio/01-small.jpg" class="img-responsive" alt="Project Title">
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-6 col-md-3 col-lg-3 app">
-                        <div class="portfolio-item">
-                            <div class="hover-bg">
-                                <a href="./assets/img/portfolio/02-large.jpg" title="Project description" data-lightbox-gallery="gallery1">
-                                    <div class="hover-text">
-                                        <h4>Project Title</h4>
-                                        <small>App Development</small>
-                                        <div class="clearfix"></div>
-                                        <i class="fa fa-plus"></i>
-                                    </div>
-                                    <img src="./assets/img/portfolio/02-small.jpg" class="img-responsive" alt="Project Title">
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Portfolio Section -->
-    <!--div id="portfolio">
-        <div class="container">
-            <div class="section-title text-center center">
-                <h2>Portfolio</h2>
-                <hr>
-            </div>
-            <div class="categories">
-                <ol class="type">
-                    <li><a href="./portfolio/fireworks/index.html">Fireworks</a></li>
-                    <li><a href="./portfolio/merry-christmas/index.html">Merry Christmas</a></li>
-                    <li><a href="./portfolio/happy-new-year-2021/index.html">Happy New Year 2021</a></li>
-                    <li><a href="./portfolio/solar-eclipse/index.html">Solar Eclipse</a></li>
-                </ol>
-            <div class="clearfix"></div>
-            </div>
-        </div>
-    </div-->
 
     <!-- Achievements Section -->
     <div id="achievements" class="text-center">
