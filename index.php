@@ -164,7 +164,7 @@
                     <div class="col-sm-6 col-md-3 col-lg-3 web">
                         <div class="portfolio-item">
                             <div class="hover-bg">
-                                <a href="./assets/img/portfolio/01-large.png" title="https://github.com/eby8zevin/PhpMySQLi-MarketPlace" data-lightbox-gallery="gallery1">
+                                <a href="./assets/img/portfolio/01-large.png" title="https://github.com/eby8zevin/PhpMySQLi-MarketPlace" data-lightbox-gallery="prettyPhoto">
                                     <div class="hover-text">
                                         <h4>Marketplace</h4>
                                         <small>Web Development</small>
@@ -179,7 +179,7 @@
                     <div class="col-sm-6 col-md-3 col-lg-3 app">
                         <div class="portfolio-item">
                             <div class="hover-bg">
-                                <a href="./assets/img/portfolio/02-large.png" title="https://github.com/eby8zevin/Android-QRBarcode" data-lightbox-gallery="gallery1">
+                                <a href="./assets/img/portfolio/02-large.png" title="https://github.com/eby8zevin/Android-QRBarcode" data-lightbox-gallery="prettyPhoto">
                                     <div class="hover-text">
                                         <h4>QRBarcode</h4>
                                         <small>App Development</small>
@@ -194,7 +194,7 @@
                     <div class="col-sm-6 col-md-3 col-lg-3 web">
                         <div class="portfolio-item">
                             <div class="hover-bg">
-                                <a href="./assets/img/portfolio/03-large.png" title="https://github.com/eby8zevin/UAS7-PemrogramanWebLanjut" data-lightbox-gallery="gallery1">
+                                <a href="./assets/img/portfolio/03-large.png" title="https://github.com/eby8zevin/UAS7-PemrogramanWebLanjut" rel="prettyPhoto">
                                     <div class="hover-text">
                                         <h4>Guest Book</h4>
                                         <small>Web Development</small>
