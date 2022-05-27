@@ -171,7 +171,7 @@
                                         <div class="clearfix"></div>
                                         <i class="fa fa-plus"></i>
                                     </div>
-                                    <img src="./assets/img/portfolio/01-small.jpg" class="img-responsive" alt="Project Title">
+                                    <img src="./assets/img/portfolio/01-small.png" class="img-responsive" alt="Project Title">
                                 </a>
                             </div>
                         </div>
