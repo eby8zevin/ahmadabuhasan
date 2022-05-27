@@ -151,7 +151,7 @@
                     <li>
                         <ol class="type">
                             <li><a href="#" data-filter="*" class="active">All</a></li>
-                            <li><a href="#" data-filter=".web">Web Design</a></li>
+                            <li><a href="#" data-filter=".web">Web Development</a></li>
                             <li><a href="#" data-filter=".app">App Development</a></li>
                             <li><a href="#" data-filter=".branding">Branding</a></li>
                         </ol>
@@ -164,10 +164,10 @@
                     <div class="col-sm-6 col-md-3 col-lg-3 web">
                         <div class="portfolio-item">
                             <div class="hover-bg">
-                                <a href="./assets/img/portfolio/01-large.jpg" title="Project description" data-lightbox-gallery="gallery1">
+                                <a href="./assets/img/portfolio/01-large.png" title="Project description" data-lightbox-gallery="gallery1">
                                     <div class="hover-text">
                                         <h4>Project Title</h4>
-                                        <small>Web Design</small>
+                                        <small>Web Development</small>
                                         <div class="clearfix"></div>
                                         <i class="fa fa-plus"></i>
                                     </div>
