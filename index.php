@@ -209,14 +209,14 @@
                     <div class="col-sm-6 col-md-3 col-lg-3 app">
                         <div class="portfolio-item">
                             <div class="hover-bg">
-                                <a href="./assets/img/portfolio/04-large.jpg" title="Project description" rel="prettyPhoto">
+                                <a href="./assets/img/portfolio/04-large.png" title="https://github.com/eby8zevin/Android-PointOfSale" rel="prettyPhoto">
                                     <div class="hover-text">
-                                        <h4>Project Title</h4>
+                                        <h4>Point Of Sale</h4>
                                         <small>App Development</small>
                                         <div class="clearfix"></div>
                                         <i class="fa fa-android"></i>
                                     </div>
-                                    <img src="./assets/img/portfolio/04-small.jpg" class="img-responsive" alt="Project Title">
+                                    <img src="./assets/img/portfolio/04-small.png" class="img-responsive" alt="https://github.com/eby8zevin/Android-PointOfSale">
                                 </a>
                             </div>
                         </div>
