@@ -153,7 +153,7 @@
                             <li><a href="#" data-filter="*" class="active">All</a></li>
                             <li><a href="#" data-filter=".web">Web Development</a></li>
                             <li><a href="#" data-filter=".app">App Development</a></li>
-                            <li><a href="#" data-filter=".branding">Branding</a></li>
+                            <!-- <li><a href="#" data-filter=".branding">Branding</a></li> -->
                         </ol>
                     </li>
                 </ul>
@@ -221,7 +221,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-6 col-md-3 col-lg-3 branding">
+                    <!-- <div class="col-sm-6 col-md-3 col-lg-3 branding">
                         <div class="portfolio-item">
                             <div class="hover-bg">
                                 <a href="./assets/img/portfolio/05-large.jpg" title="Project description" rel="prettyPhoto">
@@ -280,7 +280,7 @@
                                 </a>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
