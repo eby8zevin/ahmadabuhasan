@@ -9,6 +9,13 @@
         <meta name="keywords" content="Android,C,C#,C++,CSS,Dart,Go,HTML,Java,JavaScript,Kotlin,PHP,Python,Ruby,SQL,Swift,TypeScript,XML">
         
         <title>Ahmad Abu Hasan</title>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8638037215789792" crossorigin="anonymous"></script>
+        <!-- <script>
+            (adsbygoogle = window.adsbygoogle || []).push({
+                google_ad_client: "ca-pub-8638037215789792",
+                enable_page_level_ads: true
+            });
+        </script> -->
 
         <!-- Favicons -->
         <link rel="apple-touch-icon" sizes="180x180" href="./assets/img/apple-touch-icon.png">
@@ -285,6 +292,17 @@
             </div>
         </div>
     </div>
+
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8638037215789792" crossorigin="anonymous"></script>
+    <!-- Display Ads -->
+    <ins class="adsbygoogle" 
+        style="display:block" 
+        data-ad-client="ca-pub-8638037215789792" 
+        data-ad-slot="8811421794" 
+        data-ad-format="auto" 
+        data-full-width-responsive="true">
+    </ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 
     <!-- Achievements Section -->
     <div id="achievements" class="text-center">
