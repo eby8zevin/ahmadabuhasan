@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="description" content="Portfolio">
         <meta name="author" content="Ahmad Abu Hasan">
-        <meta name="keywords" content="Android,C,C#,C++,CSS,Dart,Go,HTML,Java,JavaScript,Kotlin,PHP,Python,Ruby,SQL,Swift,TypeScript,XML">
+        <meta name="keywords" content="Portfolio, Developer, Android, Java, XML, Kotlin, HTML, CSS, JavaScript, PHP, MySQL">
         
         <title>Ahmad Abu Hasan</title>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8638037215789792" crossorigin="anonymous"></script>
@@ -228,7 +228,7 @@
                             </div>
                         </div>
                     </div>
-                    <!-- <div class="col-sm-6 col-md-3 col-lg-3 branding">
+                    <div class="col-sm-6 col-md-3 col-lg-3 branding">
                         <div class="portfolio-item">
                             <div class="hover-bg">
                                 <a href="./assets/img/portfolio/05-large.jpg" title="Project description" rel="prettyPhoto">
@@ -287,7 +287,7 @@
                                 </a>
                             </div>
                         </div>
-                    </div> -->
+                    </div>
                 </div>
             </div>
         </div>
@@ -296,13 +296,14 @@
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8638037215789792" crossorigin="anonymous"></script>
     <!-- Display Ads -->
     <ins class="adsbygoogle" 
-        style="display:block" 
-        data-ad-client="ca-pub-8638037215789792" 
-        data-ad-slot="8811421794" 
-        data-ad-format="auto" 
-        data-full-width-responsive="true">
-    </ins>
-    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+    style="display:block" 
+    data-ad-client="ca-pub-8638037215789792" 
+    data-ad-slot="8811421794" 
+    data-ad-format="auto" 
+    data-full-width-responsive="true"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
 
     <!-- Achievements Section -->
     <div id="achievements" class="text-center">
