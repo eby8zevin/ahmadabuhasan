@@ -19,6 +19,7 @@
 
         <!-- Visitor Counter -->
         <script defer src="visitor-counter.js"></script>
+        <link rel="stylesheet" href="visitor-counter.css">
 
         <!-- Favicons -->
         <link rel="apple-touch-icon" sizes="180x180" href="./assets/img/apple-touch-icon.png">
