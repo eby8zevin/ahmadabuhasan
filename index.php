@@ -17,6 +17,9 @@
             });
         </script> -->
 
+        <!-- Visitor Counter -->
+        <script defer src="visitor-counter.js"></script>
+
         <!-- Favicons -->
         <link rel="apple-touch-icon" sizes="180x180" href="./assets/img/apple-touch-icon.png">
         <link rel="icon" type="image/png" sizes="32x32" href="./assets/img/favicon-32x32.png">
@@ -60,6 +63,9 @@
                     </button>
                     <a class="navbar-brand page-scroll" href="#page-top">
                         <i class="fa fa-code"></i> <span class="light">Ahmad Abu Hasan</span>
+                        <div>Visit Count:</div>
+                        <div class="website-counter"></div>
+                        <button id="reset">Reset</button>
                     </a>
                 </div>
 
