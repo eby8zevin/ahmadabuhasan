@@ -66,8 +66,8 @@
                         <i class="fa fa-code"></i> <span class="light">Ahmad Abu Hasan</span>
                     </a>
                     <!-- <div>Visit Count:</div> -->
-                    <div class="website-counter navbar-left">
-                    <button id="reset">Reset</button></div>
+                    <div class="website-counter navbar-left"></div>
+                    <button id="reset" class="navbar-left">Reset</button>
                 </div>
 
                 <!-- Collect the nav links, forms, and other content for toggling -->
