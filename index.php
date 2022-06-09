@@ -66,7 +66,7 @@
                         <i class="fa fa-code"></i> <span class="light">Ahmad Abu Hasan</span>
                     </a>
                     <!-- <div>Visit Count:</div> -->
-                    <div class="website-counter"></div>
+                    <div class="website-counter navbar-left"></div>
                     <!-- <button id="reset">Reset</button> -->
                 </div>
 
