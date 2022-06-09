@@ -63,11 +63,11 @@
                     </button>
                     <a class="navbar-brand page-scroll" href="#page-top">
                         <i class="fa fa-code"></i> <span class="light">Ahmad Abu Hasan</span>
-                        <div>Visit Count:</div>
-                        <div class="website-counter"></div>
-                        <button id="reset">Reset</button>
                     </a>
                 </div>
+                <div>Visit Count:</div>
+                <div class="website-counter"></div>
+                <button id="reset">Reset</button>
 
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
