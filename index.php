@@ -67,7 +67,7 @@
                     </a>
                     <!-- <div>Visit Count:</div> -->
                     <div class="website-counter navbar-left"></div>
-                    <!-- <button id="reset">Reset</button> -->
+                    <button id="reset">Reset</button>
                 </div>
 
                 <!-- Collect the nav links, forms, and other content for toggling -->
