@@ -66,9 +66,9 @@
                         <i class="fa fa-code"></i> <span class="light">Ahmad Abu Hasan</span>
                     </a>
                 </div>
-                <div>Visit Count:</div>
+                <!-- <div>Visit Count:</div> -->
                 <div class="website-counter"></div>
-                <button id="reset">Reset</button>
+                <!-- <button id="reset">Reset</button> -->
 
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
