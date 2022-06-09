@@ -1,5 +1,5 @@
 /* Center child elements */
-body,
+/* body,
 .website-counter {
     display: flex;
     justify-content: center;
@@ -9,7 +9,7 @@ body,
 
 body {
     height: 100vh;
-}
+} */
 
 /* Styles for website counter container */
 .website-counter {
@@ -20,7 +20,7 @@ body {
     border-radius: 30px;
     font-weight: 700px;
     font-size: 25px;
-    margin-top: 10px;
+    /* margin-top: 10px; */
 }
 
 /* Styles for reset button */
