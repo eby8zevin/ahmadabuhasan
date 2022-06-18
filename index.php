@@ -323,25 +323,25 @@
             <div class="row">
                 <div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="200ms">
                     <div class="achievement-box">
-                        <span class="count">6674</span>
+                        <span class="count">6630</span>
                         <h4>Total Contributions</h4>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="400ms">
                     <div class="achievement-box">
-                        <span class="count">105</span>
+                        <span class="count">112</span>
                         <h4>Current Streak</h4>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="600ms">
                     <div class="achievement-box">
-                        <span class="count">105</span>
+                        <span class="count">112</span>
                         <h4>Longest Streak</h4>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="800ms">
                     <div class="achievement-box">
-                        <span class="count">3</span>
+                        <span class="count">2</span>
                         <h4>Years of Experience</h4>
                     </div>
                 </div>
