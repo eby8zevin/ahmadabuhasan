@@ -136,17 +136,37 @@
                     <span class="chart" data-percent="90">
                         <span class="percent">90</span>
                     </span>
-                    <h4>Android - Java</h4>
+                    <h4>Java</h4>
+                </div>
+                <div class="col-md-4 col-sm-6 skill">
+                    <span class="chart" data-percent="80">
+                        <span class="percent">80</span>
+                    </span>
+                    <h4>XML</h4>
                 </div>
                 <div class="col-md-4 col-sm-6 skill">
                     <span class="chart" data-percent="60">
                         <span class="percent">60</span>
                     </span>
+                    <h4>Kotlin</h4>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4 col-sm-6 skill">
+                    <span class="chart" data-percent="70">
+                        <span class="percent">70</span>
+                    </span>
+                    <h4>HTML</h4>
+                </div>
+                <div class="col-md-4 col-sm-6 skill">
+                    <span class="chart" data-percent="70">
+                        <span class="percent">70</span>
+                    </span>
                     <h4>PHP</h4>
                 </div>
                 <div class="col-md-4 col-sm-6 skill">
-                    <span class="chart" data-percent="60">
-                        <span class="percent">60</span>
+                    <span class="chart" data-percent="70">
+                        <span class="percent">70</span>
                     </span>
                     <h4>MySQL</h4>
                 </div>
