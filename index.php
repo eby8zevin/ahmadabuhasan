@@ -20,7 +20,7 @@
 
         <!-- Visitor Counter -->
         <script defer src="visitor-counter.js"></script>
-        <!-- <link rel="stylesheet" href="visitor-counter.css"> -->
+        <link rel="stylesheet" href="visitor-counter.css">
 
         <!-- Favicons -->
         <link rel="apple-touch-icon" sizes="180x180" href="./assets/img/apple-touch-icon.png">
@@ -136,9 +136,15 @@
             <div class="row">
                 <div class="col-md-4 col-sm-6 skill">
                     <span class="chart" data-percent="90">
-                        <span class="percent"></span>
+                        <span class="percent">90</span>
                     </span>
                     <h4>Android</h4>
+                </div>
+                <div class="col-md-4 col-sm-6 skill">
+                    <span class="chart" data-percent="80">
+                        <span class="percent">80</span>
+                    </span>
+                    <h4>XML</h4>
                 </div>
             </div>
         </div>
