@@ -150,8 +150,6 @@
                     </span>
                     <h4>Kotlin</h4>
                 </div>
-            </div>
-            <div class="row">
                 <div class="col-md-4 col-sm-6 skill">
                     <span class="chart" data-percent="70">
                         <span class="percent">70</span>
