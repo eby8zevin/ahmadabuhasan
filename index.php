@@ -20,7 +20,7 @@
 
         <!-- Visitor Counter -->
         <script defer src="visitor-counter.js"></script>
-        <link rel="stylesheet" href="visitor-counter.css">
+        <!-- <link rel="stylesheet" href="visitor-counter.css"> -->
 
         <!-- Favicons -->
         <link rel="apple-touch-icon" sizes="180x180" href="./assets/img/apple-touch-icon.png">
@@ -29,10 +29,12 @@
         <link rel="manifest" href="./assets/img/site.webmanifest">
 
         <!-- Bootstrap -->
-        <link rel="stylesheet" type="text/css"  href="./assets/css/style.css">
         <link rel="stylesheet" type="text/css"  href="./assets/css/bootstrap.css">
-        <link rel="stylesheet" type="text/css" href="./assets/css/prettyPhoto.css">
         <link rel="stylesheet" type="text/css" href="./assets/fonts/font-awesome/css/font-awesome.css">
+
+        <!-- Stylesheets -->
+        <link rel="stylesheet" type="text/css"  href="./assets/css/style.css">
+        <link rel="stylesheet" type="text/css" href="./assets/css/prettyPhoto.css">
         <link href='https://fonts.googleapis.com/css?family=Lato:400,700,900,300' rel='stylesheet' type='text/css'>
         <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,800,600,300' rel='stylesheet' type='text/css'>
     </head>
