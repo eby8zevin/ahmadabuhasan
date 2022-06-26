@@ -71,8 +71,10 @@
                     <!-- <div>Visit Count:</div> -->
                     <!-- <div class="website-counter navbar-left"></div> 10/06/2022 -->
                     <!-- <button id="reset" class="navbar-left">Reset</button> -->
-                    <a href='https://dissertation-writingservice.com/'>https://dissertation-writingservice.com</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=d99289f88f53e20f1caac5c342a6988f5126c692'></script>
-                    <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/951073/t/9"></script>
+                    <div class="navbar-left">
+                        <a href='https://dissertation-writingservice.com/'>https://dissertation-writingservice.com</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=d99289f88f53e20f1caac5c342a6988f5126c692'></script>
+                        <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/951073/t/9"></script>
+                    </div>
                 </div>
 
                 <!-- Collect the nav links, forms, and other content for toggling -->
