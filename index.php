@@ -69,8 +69,10 @@
                         <i class="fa fa-code"></i> <span class="light">Ahmad Abu Hasan</span>
                     </a>
                     <!-- <div>Visit Count:</div> -->
-                    <div class="website-counter navbar-left"></div> <!-- 10/06/2022 -->
+                    <!-- <div class="website-counter navbar-left"></div> 10/06/2022 -->
                     <!-- <button id="reset" class="navbar-left">Reset</button> -->
+                    <a href='https://dissertation-writingservice.com/'>https://dissertation-writingservice.com</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=d99289f88f53e20f1caac5c342a6988f5126c692'></script>
+                    <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/951073/t/9"></script>
                 </div>
 
                 <!-- Collect the nav links, forms, and other content for toggling -->
