@@ -1,44 +1,46 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="description" content="Portfolio">
-        <meta name="author" content="Ahmad Abu Hasan">
-        <meta name="keywords" content="Portfolio, Developer, Android, Java, XML, Kotlin, HTML, CSS, JavaScript, PHP, MySQL">
-        
-        <title>Ahmad Abu Hasan</title>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8638037215789792" crossorigin="anonymous"></script>
-        <!-- <script>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Portfolio">
+    <meta name="author" content="Ahmad Abu Hasan">
+    <meta name="keywords" content="Portfolio, Developer, Android, Java, XML, Kotlin, HTML, CSS, JavaScript, PHP, MySQL">
+
+    <title>Ahmad Abu Hasan</title>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8638037215789792" crossorigin="anonymous"></script>
+    <!-- <script>
             (adsbygoogle = window.adsbygoogle || []).push({
                 google_ad_client: "ca-pub-8638037215789792",
                 enable_page_level_ads: true
             });
         </script> -->
 
-        <!-- Visitor Counter -->
-        <script defer src="visitor-counter.js"></script>
-        <link rel="stylesheet" href="visitor-counter.css">
+    <!-- Visitor Counter -->
+    <script defer src="visitor-counter.js"></script>
+    <link rel="stylesheet" href="visitor-counter.css">
 
-        <!-- Favicons -->
-        <link rel="apple-touch-icon" sizes="180x180" href="./assets/img/apple-touch-icon.png">
-        <link rel="icon" type="image/png" sizes="32x32" href="./assets/img/favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="16x16" href="./assets/img/favicon-16x16.png">
-        <link rel="manifest" href="./assets/img/site.webmanifest">
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="./assets/img/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./assets/img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./assets/img/favicon-16x16.png">
+    <link rel="manifest" href="./assets/img/site.webmanifest">
 
-        <!-- Bootstrap -->
-        <link rel="stylesheet" type="text/css"  href="./assets/css/bootstrap.css">
-        <link rel="stylesheet" type="text/css" href="./assets/fonts/font-awesome/css/font-awesome.css">
+    <!-- Bootstrap -->
+    <link rel="stylesheet" type="text/css" href="./assets/css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="./assets/fonts/font-awesome/css/font-awesome.css">
 
-        <!-- Stylesheets -->
-        <link rel="stylesheet" type="text/css"  href="./assets/css/style.css">
-        <link rel="stylesheet" type="text/css" href="./assets/css/prettyPhoto.css">
-        <link href='https://fonts.googleapis.com/css?family=Lato:400,700,900,300' rel='stylesheet' type='text/css'>
-        <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,800,600,300' rel='stylesheet' type='text/css'>
-    </head>
-    <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+    <!-- Stylesheets -->
+    <link rel="stylesheet" type="text/css" href="./assets/css/style.css">
+    <link rel="stylesheet" type="text/css" href="./assets/css/prettyPhoto.css">
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,700,900,300' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,800,600,300' rel='stylesheet' type='text/css'>
+</head>
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
 
     <!-- Header -->
     <header id="header">
@@ -320,14 +322,9 @@
 
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8638037215789792" crossorigin="anonymous"></script>
     <!-- Display Ads -->
-    <ins class="adsbygoogle" 
-    style="display:block" 
-    data-ad-client="ca-pub-8638037215789792" 
-    data-ad-slot="8811421794" 
-    data-ad-format="auto" 
-    data-full-width-responsive="true"></ins>
+    <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8638037215789792" data-ad-slot="8811421794" data-ad-format="auto" data-full-width-responsive="true"></ins>
     <script>
-    (adsbygoogle = window.adsbygoogle || []).push({});
+        (adsbygoogle = window.adsbygoogle || []).push({});
     </script>
 
     <!-- Achievements Section -->
@@ -340,19 +337,19 @@
             <div class="row">
                 <div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="200ms">
                     <div class="achievement-box">
-                        <span class="count">6699</span>
+                        <span class="count">6833</span>
                         <h4>Total Contributions</h4>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="400ms">
                     <div class="achievement-box">
-                        <span class="count">116</span>
+                        <span class="count">123</span>
                         <h4>Current Streak</h4>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="600ms">
                     <div class="achievement-box">
-                        <span class="count">116</span>
+                        <span class="count">123</span>
                         <h4>Longest Streak</h4>
                     </div>
                 </div>
@@ -379,8 +376,8 @@
                         <li>
                             <div class="timeline-image">
                                 <h4>Jan 2019 <br>
-                                - <br>
-                                Present</h4>
+                                    - <br>
+                                    Present</h4>
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
@@ -407,8 +404,8 @@
                         <li>
                             <div class="timeline-image">
                                 <h4>2017 <br>
-                                - <br>
-                                2021</h4>
+                                    - <br>
+                                    2021</h4>
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
@@ -417,17 +414,17 @@
                                 </div>
                                 <div class="timeline-body">
                                     <p>Jl. Bader No. 9, Kalirejo Bangil, <br>
-                                    Pasuruan, Jawa Timur, <br>
-                                    Kode POS 67153 <br>
-                                    Website : stmik-yadika.ac.id</p>
+                                        Pasuruan, Jawa Timur, <br>
+                                        Kode POS 67153 <br>
+                                        Website : stmik-yadika.ac.id</p>
                                 </div>
                             </div>
                         </li>
                         <li class="timeline-inverted">
                             <div class="timeline-image">
                                 <h4>2012 <br>
-                                - <br>
-                                2015</h4>
+                                    - <br>
+                                    2015</h4>
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
@@ -436,18 +433,18 @@
                                 </div>
                                 <div class="timeline-body">
                                     <p>Jl. Ngampel Raya, RT.04/RW.01, Kel. Ngampel, <br>
-                                    Kec. Mojoroto, Kota Kediri, Jawa Timur, <br>
-                                    Kode POS 64112 - Telp. 0354-780247 <br>
-                                    Email : info[at]smkalmahrusiyah.sch.id <br>
-                                    Website : smkalmahrusiyah.sch.id</p>
+                                        Kec. Mojoroto, Kota Kediri, Jawa Timur, <br>
+                                        Kode POS 64112 - Telp. 0354-780247 <br>
+                                        Email : info[at]smkalmahrusiyah.sch.id <br>
+                                        Website : smkalmahrusiyah.sch.id</p>
                                 </div>
                             </div>
                         </li>
                         <li>
                             <div class="timeline-image">
                                 <h4>2009 <br>
-                                - <br>
-                                2012</h4>
+                                    - <br>
+                                    2012</h4>
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
@@ -456,10 +453,10 @@
                                 </div>
                                 <div class="timeline-body">
                                     <p class="text-muted">Jl. Pondok Pesantren Terpadu Al-Yasini, <br>
-                                    Ngabar Kraton, Pasuruan, Jawa Timur, <br>
-                                    Kode POS 67151 - Telp. 0343-424435 <br>
-                                    Email :  smp2kraton[at]gmail.com <br>
-                                    Website : https://www.smpn2kraton.sch.id</p>
+                                        Ngabar Kraton, Pasuruan, Jawa Timur, <br>
+                                        Kode POS 67151 - Telp. 0343-424435 <br>
+                                        Email : smp2kraton[at]gmail.com <br>
+                                        Website : https://www.smpn2kraton.sch.id</p>
                                 </div>
                             </div>
                         </li>
@@ -480,12 +477,12 @@
                 <div class="col-md-4">
                     <i class="fa fa-map-marker fa-2x"></i>
                     <p>Pasuruan City, <br>
-                    East Java, ID 67137</p>
+                        East Java, ID 67137</p>
                 </div>
                 <div class="col-md-4">
                     <i class="fa fa-envelope-o fa-2x"></i>
                     <p>ahmadabuhasan <br>
-                    [at]mhs.stmik-yadika.ac.id</p>
+                        [at]mhs.stmik-yadika.ac.id</p>
                 </div>
                 <div class="col-md-4">
                     <i class="fa fa-phone fa-2x"></i>
@@ -521,22 +518,22 @@
                 <div class="social">
                     <ul>
                         <li><a href="https://www.facebook.com/profile.php?id=100001555488554">
-                            <i class="fa fa-facebook"></i>
+                                <i class="fa fa-facebook"></i>
                             </a>
                         </li>
                         <li><a href="https://www.twitter.com/ebyalvaro">
-                            <i class="fa fa-twitter"></i>
+                                <i class="fa fa-twitter"></i>
                             </a>
                         </li>
                         <li><a href="https://www.instagram.com/eby8zevin">
-                            <i class="fa fa-instagram"></i>
+                                <i class="fa fa-instagram"></i>
                             </a>
                         <li><a href="https://www.github.com/eby8zevin">
-                            <i class="fa fa-github"></i>
+                                <i class="fa fa-github"></i>
                             </a>
                         </li>
                         <li><a href="https://www.linkedin.com/in/ahmadabuhasan">
-                            <i class="fa fa-linkedin"></i>
+                                <i class="fa fa-linkedin"></i>
                             </a>
                         </li>
                     </ul>
@@ -549,7 +546,7 @@
     <div id="footer">
         <div class="container text-center">
             <div class="fnav">
-                <p>Copyright &copy; <?php echo date ("Y"); ?> - Ahmad Abu Hasan</p>
+                <p>Copyright &copy; <?php echo date("Y"); ?> - Ahmad Abu Hasan</p>
             </div>
         </div>
     </div>
@@ -566,5 +563,6 @@
     <script type="text/javascript" src="assets/js/contact_me.js"></script>
     <script type="text/javascript" src="assets/js/main.js"></script>
 
-    </body>
+</body>
+
 </html>
