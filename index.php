@@ -117,7 +117,7 @@
                         <p style="text-align:center; font-size:25px;">"Everybody should learn to program a computer, <br>
                             because it teaches you how to think." - Steve Jobs</p>
                         <p class="text-center">
-                            <a class="btn btn-primary btn-lg" href="https://drive.google.com/file/d/1KfEtQYu9b7gjgDX-cNFplsHH-J7UNmDU/view?usp=sharing" target="_blank"><i class="fa fa-download"></i> Download Resume</a>
+                            <a class="btn btn-primary btn-lg" href="https://bit.ly/CVAhmadAbuHasan" target="_blank"><i class="fa fa-download"></i> Download Resume</a>
                         </p>
                     </div>
                 </div>
@@ -337,19 +337,19 @@
             <div class="row">
                 <div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="200ms">
                     <div class="achievement-box">
-                        <span class="count">6873</span>
+                        <span class="count">6891</span>
                         <h4>Total Contributions</h4>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="400ms">
                     <div class="achievement-box">
-                        <span class="count">126</span>
+                        <span class="count">132</span>
                         <h4>Current Streak</h4>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="600ms">
                     <div class="achievement-box">
-                        <span class="count">126</span>
+                        <span class="count">132</span>
                         <h4>Longest Streak</h4>
                     </div>
                 </div>
