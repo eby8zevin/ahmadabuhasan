@@ -50,7 +50,7 @@
                     <div class="row">
                         <div class="intro-text">
                             <h1>Hello, I'm <span class="name">Ahmad Abu Hasan</span></h1>
-                            <p>Android Developer</p>
+                            <p>IT Support | Programmer</p>
                             <a href="#about" class="btn btn-default btn-lg page-scroll">About Me</a>
                         </div>
                     </div>
@@ -137,7 +137,7 @@
                     <span class="chart" data-percent="90">
                         <span class="percent">90</span>
                     </span>
-                    <h4>Android</h4>
+                    <h4>Android - Java</h4>
                 </div>
                 <div class="col-md-4 col-sm-6 skill">
                     <span class="chart" data-percent="80">
@@ -186,7 +186,7 @@
                         <ol class="type">
                             <li><a href="#" data-filter="*" class="active">All</a></li>
                             <li><a href="#" data-filter=".web">Web Development</a></li>
-                            <li><a href="#" data-filter=".app">App Development</a></li>
+                            <li><a href="#" data-filter=".app">Mobile Development</a></li>
                             <!-- <li><a href="#" data-filter=".branding">Branding</a></li> -->
                         </ol>
                     </li>
@@ -216,7 +216,7 @@
                                 <a href="./assets/img/portfolio/02-large.png" title="https://github.com/eby8zevin/Android-QRBarcode" rel="prettyPhoto">
                                     <div class="hover-text">
                                         <h4>QRBarcode</h4>
-                                        <small>App Development</small>
+                                        <small>Mobile Development</small>
                                         <div class="clearfix"></div>
                                         <i class="fa fa-android"></i>
                                     </div>
@@ -246,7 +246,7 @@
                                 <a href="./assets/img/portfolio/04-large.png" title="https://github.com/eby8zevin/Android-PointOfSale" rel="prettyPhoto">
                                     <div class="hover-text">
                                         <h4>Point Of Sale</h4>
-                                        <small>App Development</small>
+                                        <small>Mobile Development</small>
                                         <div class="clearfix"></div>
                                         <i class="fa fa-android"></i>
                                     </div>
@@ -337,25 +337,25 @@
             <div class="row">
                 <div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="200ms">
                     <div class="achievement-box">
-                        <span class="count">6891</span>
+                        <span class="count">6928</span>
                         <h4>Total Contributions</h4>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="400ms">
                     <div class="achievement-box">
-                        <span class="count">132</span>
+                        <span class="count">136</span>
                         <h4>Current Streak</h4>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="600ms">
                     <div class="achievement-box">
-                        <span class="count">132</span>
+                        <span class="count">136</span>
                         <h4>Longest Streak</h4>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="800ms">
                     <div class="achievement-box">
-                        <span class="count">2</span>
+                        <span class="count">6</span>
                         <h4>Years of Experience</h4>
                     </div>
                 </div>
@@ -375,17 +375,39 @@
                     <ul class="timeline">
                         <li>
                             <div class="timeline-image">
-                                <h4>Jan 2019 <br>
+                                <h4>Sept 2021 <br>
                                     - <br>
                                     Present</h4>
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
                                     <h4>Freelancer</h4>
-                                    <h4 class="subheading">Android Developer</h4>
+                                    <h4 class="subheading">IT Support | Programmer</h4>
                                 </div>
                                 <div class="timeline-body">
                                     <p>I work as Android Developer. I have passion fot the perfect Android Application, interesting and easy to use interfaces. I'm focused, dedicated, hard-working and willing to learn in a changing and challenging environment.</p>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <ul class="timeline">
+                        <li>
+                            <div class="timeline-image">
+                                <h4>July 2015 <br>
+                                    - <br>
+                                    Apr 2022</h4>
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>Samudra Jaya Glass & Aluminum Shop</h4>
+                                    <h4 class="subheading">Shopkeeper</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p>.</p>
                                 </div>
                             </div>
                         </li>
