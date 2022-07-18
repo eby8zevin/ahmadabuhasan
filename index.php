@@ -19,10 +19,6 @@
             });
         </script> -->
 
-    <!-- Visitor Counter -->
-    <script defer src="visitor-counter.js"></script>
-    <link rel="stylesheet" href="visitor-counter.css">
-
     <!-- Favicons -->
     <link rel="apple-touch-icon" sizes="180x180" href="./assets/img/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="./assets/img/favicon-32x32.png">
@@ -337,19 +333,19 @@
             <div class="row">
                 <div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="200ms">
                     <div class="achievement-box">
-                        <span class="count">7009</span>
+                        <span class="count">7038</span>
                         <h4>Total Contributions</h4>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="400ms">
                     <div class="achievement-box">
-                        <span class="count">139</span>
+                        <span class="count">142</span>
                         <h4>Current Streak</h4>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="600ms">
                     <div class="achievement-box">
-                        <span class="count">139</span>
+                        <span class="count">142</span>
                         <h4>Longest Streak</h4>
                     </div>
                 </div>
