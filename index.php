@@ -11,13 +11,6 @@
     <meta name="keywords" content="Portfolio, Developer, Android, Java, XML, Kotlin, HTML, CSS, JavaScript, PHP, MySQL">
 
     <title>Ahmad Abu Hasan</title>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8638037215789792" crossorigin="anonymous"></script>
-    <!-- <script>
-            (adsbygoogle = window.adsbygoogle || []).push({
-                google_ad_client: "ca-pub-8638037215789792",
-                enable_page_level_ads: true
-            });
-        </script> -->
 
     <!-- Favicons -->
     <link rel="apple-touch-icon" sizes="180x180" href="./assets/img/apple-touch-icon.png">
@@ -130,14 +123,14 @@
             </div>
             <div class="row">
                 <div class="col-md-4 col-sm-6 skill">
-                    <span class="chart" data-percent="90">
-                        <span class="percent">90</span>
-                    </span>
-                    <h4>Android - Java</h4>
-                </div>
-                <div class="col-md-4 col-sm-6 skill">
                     <span class="chart" data-percent="80">
                         <span class="percent">80</span>
+                    </span>
+                    <h4>Java</h4>
+                </div>
+                <div class="col-md-4 col-sm-6 skill">
+                    <span class="chart" data-percent="70">
+                        <span class="percent">70</span>
                     </span>
                     <h4>XML</h4>
                 </div>
@@ -316,16 +309,9 @@
         </div>
     </div>
 
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8638037215789792" crossorigin="anonymous"></script>
-    <!-- Display Ads -->
-    <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8638037215789792" data-ad-slot="8811421794" data-ad-format="auto" data-full-width-responsive="true"></ins>
-    <script>
-        (adsbygoogle = window.adsbygoogle || []).push({});
-    </script>
-
     <!-- Achievements Section -->
     <div id="achievements" class="text-center">
-        <div class="container">
+        <!-- <div class="container">
             <div class="section-title center">
                 <h2>Github Stats</h2>
                 <hr>
@@ -356,7 +342,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
 
     <!-- Resume Section -->
@@ -371,39 +357,36 @@
                     <ul class="timeline">
                         <li>
                             <div class="timeline-image">
-                                <h4>Sept 2021 <br>
-                                    - <br>
-                                    Present</h4>
+                                <h4>Present<br>
+                                    -<br>
+                                    Sep 2021</h4>
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
                                     <h4>Freelancer</h4>
-                                    <h4 class="subheading">IT Support | Programmer</h4>
+                                    <h6>upwork.com & projects.co.id</h6>
+                                    <h4 class="subheading">Programmer</h4>
                                 </div>
                                 <div class="timeline-body">
                                     <p>I work as Android Developer. I have passion fot the perfect Android Application, interesting and easy to use interfaces. I'm focused, dedicated, hard-working and willing to learn in a changing and challenging environment.</p>
                                 </div>
                             </div>
                         </li>
-                    </ul>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-12">
-                    <ul class="timeline">
-                        <li>
+                        <li class="timeline-inverted">
                             <div class="timeline-image">
-                                <h4>July 2015 <br>
-                                    - <br>
-                                    Apr 2022</h4>
+                                <h4>Apr 2022<br>
+                                    -<br>
+                                    Jul 2015</h4>
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>Samudra Jaya Glass & Aluminum Shop</h4>
+                                    <h4>Toko Samudra Jaya</h4>
                                     <h4 class="subheading">Shopkeeper</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p>.</p>
+                                    <p>● Responsible for the management and business of the family owned shop.<br>
+                                        ● Provide maximum service to customers in the store every day to ensure customer satisfaction.<br>
+                                        ● Carry out sales transactions in the store and maintain the security of the work area (store).</p>
                                 </div>
                             </div>
                         </li>
@@ -419,16 +402,18 @@
             <div class="row">
                 <div class="col-lg-12">
                     <ul class="timeline">
+                        <!-- Education Section-->
                         <li>
                             <div class="timeline-image">
-                                <h4>2017 <br>
-                                    - <br>
-                                    2021</h4>
+                                <h4>2021<br>
+                                    -<br>
+                                    2017</h4>
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
                                     <h4>STMIK Yadika Bangil</h4>
-                                    <h4 class="subheading">Informatics Engineering Department</h4>
+                                    <h5 class="subheading">Informatics Engineering</h5>
+                                    <h4 class="subheading">Bachelor's Degree</h4>
                                 </div>
                                 <div class="timeline-body">
                                     <p>Jl. Bader No. 9, Kalirejo Bangil, <br>
@@ -440,14 +425,15 @@
                         </li>
                         <li class="timeline-inverted">
                             <div class="timeline-image">
-                                <h4>2012 <br>
-                                    - <br>
-                                    2015</h4>
+                                <h4>2015<br>
+                                    -<br>
+                                    2012</h4>
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>SMK Al-Mahrusiyah Kediri</h4>
-                                    <h4 class="subheading">Multimedia (MM)</h4>
+                                    <h4>SMK Al-Mahrusiyah</h4>
+                                    <h5 class="subheading">Multimedia</h5>
+                                    <h4 class="subheading">High School</h4>
                                 </div>
                                 <div class="timeline-body">
                                     <p>Jl. Ngampel Raya, RT.04/RW.01, Kel. Ngampel, <br>
@@ -460,9 +446,9 @@
                         </li>
                         <li>
                             <div class="timeline-image">
-                                <h4>2009 <br>
-                                    - <br>
-                                    2012</h4>
+                                <h4>2012<br>
+                                    -<br>
+                                    2009</h4>
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
@@ -539,7 +525,7 @@
                                 <i class="fa fa-facebook"></i>
                             </a>
                         </li>
-                        <li><a href="https://www.twitter.com/ebyalvaro">
+                        <li><a href="https://www.twitter.com/eby8zevin">
                                 <i class="fa fa-twitter"></i>
                             </a>
                         </li>
