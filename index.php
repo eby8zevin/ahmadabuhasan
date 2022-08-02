@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=0.1">
     <meta name="description" content="Portfolio">
     <meta name="author" content="Ahmad Abu Hasan">
     <meta name="keywords" content="Portfolio, Developer, Android, Java, XML, Kotlin, HTML, CSS, JavaScript, PHP, MySQL">
@@ -13,18 +13,18 @@
     <title>Ahmad Abu Hasan</title>
 
     <!-- Favicons -->
-    <link rel="apple-touch-icon" sizes="180x180" href="./assets/img/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="./assets/img/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="./assets/img/favicon-16x16.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../assets/img/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../assets/img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../assets/img/favicon-16x16.png">
     <link rel="manifest" href="./assets/img/site.webmanifest">
 
     <!-- Bootstrap -->
-    <link rel="stylesheet" type="text/css" href="./assets/css/bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="./assets/fonts/font-awesome/css/font-awesome.css">
+    <link rel="stylesheet" type="text/css" href="../assets/css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="../assets/fonts/font-awesome/css/font-awesome.css">
 
     <!-- Stylesheets -->
-    <link rel="stylesheet" type="text/css" href="./assets/css/style.css">
-    <link rel="stylesheet" type="text/css" href="./assets/css/prettyPhoto.css">
+    <link rel="stylesheet" type="text/css" href="../assets/css/style.css">
+    <link rel="stylesheet" type="text/css" href="../assets/css/prettyPhoto.css">
     <link href='https://fonts.googleapis.com/css?family=Lato:400,700,900,300' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,800,600,300' rel='stylesheet' type='text/css'>
 </head>
@@ -99,7 +99,7 @@
                 <hr>
             </div>
             <div class="row">
-                <div class="col-md-12 text-center"><img src="./assets/img/me.png" alt="Ahmad Abu Hasan" class="img-responsive"></div>
+                <div class="col-md-12 text-center"><img src="../assets/img/me.png" alt="Ahmad Abu Hasan" class="img-responsive"></div>
                 <div class="col-md-8 col-md-offset-2">
                     <div class="about-text">
                         <p style="text-align:center; font-size:25px;">while ( ! (succed = try( ) ) );</p>
@@ -184,6 +184,7 @@
             </div>
             <div class="row">
                 <div class="portfolio-items">
+                    <!-- 1 -->
                     <div class="col-sm-6 col-md-3 col-lg-3 web">
                         <div class="portfolio-item">
                             <div class="hover-bg">
@@ -194,11 +195,12 @@
                                         <div class="clearfix"></div>
                                         <i class="fa fa-globe"></i>
                                     </div>
-                                    <img src="./assets/img/portfolio/01-small.png" class="img-responsive" alt="https://github.com/eby8zevin/PhpMySQLi-MarketPlace">
+                                    <img src="./assets/img/portfolio/01-small.png" class="img-responsive" alt="https://blackpink-marketplace.000webhostapp.com">
                                 </a>
                             </div>
                         </div>
                     </div>
+                    <!-- 2 -->
                     <div class="col-sm-6 col-md-3 col-lg-3 app">
                         <div class="portfolio-item">
                             <div class="hover-bg">
@@ -209,26 +211,28 @@
                                         <div class="clearfix"></div>
                                         <i class="fa fa-android"></i>
                                     </div>
-                                    <img src="./assets/img/portfolio/02-small.png" class="img-responsive" alt="https://github.com/eby8zevin/Android-QRBarcode">
+                                    <img src="./assets/img/portfolio/02-small.png" class="img-responsive" alt="https://github.com/eby8zevin/Android-QRBarcode/actions/workflows/android.yml">
                                 </a>
                             </div>
                         </div>
                     </div>
+                    <!-- 3 -->
                     <div class="col-sm-6 col-md-3 col-lg-3 web">
                         <div class="portfolio-item">
                             <div class="hover-bg">
-                                <a href="./assets/img/portfolio/03-large.png" title="https://github.com/eby8zevin/UAS7-PemrogramanWebLanjut" rel="prettyPhoto">
+                                <a href="./assets/img/portfolio/03-large.png" title="https://github.com/eby8zevin/PhpMySQLi-MarketPlace/tree/master/admin" rel="prettyPhoto">
                                     <div class="hover-text">
                                         <h4>Guest Book</h4>
                                         <small>Web Development</small>
                                         <div class="clearfix"></div>
                                         <i class="fa fa-globe"></i>
                                     </div>
-                                    <img src="./assets/img/portfolio/03-small.png" class="img-responsive" alt="https://github.com/eby8zevin/UAS7-PemrogramanWebLanjut">
+                                    <img src="./assets/img/portfolio/03-small.png" class="img-responsive" alt="https://blackpink-marketplace.000webhostapp.com/admin">
                                 </a>
                             </div>
                         </div>
                     </div>
+                    <!-- 4 -->
                     <div class="col-sm-6 col-md-3 col-lg-3 app">
                         <div class="portfolio-item">
                             <div class="hover-bg">
@@ -239,11 +243,12 @@
                                         <div class="clearfix"></div>
                                         <i class="fa fa-android"></i>
                                     </div>
-                                    <img src="./assets/img/portfolio/04-small.png" class="img-responsive" alt="https://github.com/eby8zevin/Android-PointOfSale">
+                                    <img src="./assets/img/portfolio/04-small.png" class="img-responsive" alt="https://github.com/eby8zevin/Android-PointOfSale/actions/workflows/android_build.yml">
                                 </a>
                             </div>
                         </div>
                     </div>
+
                     <!-- <div class="col-sm-6 col-md-3 col-lg-3 branding">
                         <div class="portfolio-item">
                             <div class="hover-bg">
@@ -304,6 +309,7 @@
                             </div>
                         </div> 
                     </div> -->
+
                 </div>
             </div>
         </div>
@@ -555,17 +561,17 @@
         </div>
     </div>
 
-    <script type="text/javascript" src="assets/js/jquery.1.11.1.js"></script>
-    <script type="text/javascript" src="assets/js/bootstrap.js"></script>
-    <script type="text/javascript" src="assets/js/SmoothScroll.js"></script>
-    <script type="text/javascript" src="assets/js/easypiechart.js"></script>
-    <script type="text/javascript" src="assets/js/jquery.prettyPhoto.js"></script>
-    <script type="text/javascript" src="assets/js/jquery.isotope.js"></script>
-    <script type="text/javascript" src="assets/js/jquery.counterup.js"></script>
-    <script type="text/javascript" src="assets/js/waypoints.js"></script>
-    <script type="text/javascript" src="assets/js/jqBootstrapValidation.js"></script>
-    <script type="text/javascript" src="assets/js/contact_me.js"></script>
-    <script type="text/javascript" src="assets/js/main.js"></script>
+    <script type="text/javascript" src="../assets/js/jquery.1.11.1.js"></script>
+    <script type="text/javascript" src="../assets/js/bootstrap.js"></script>
+    <script type="text/javascript" src="../assets/js/SmoothScroll.js"></script>
+    <script type="text/javascript" src="../assets/js/easypiechart.js"></script>
+    <script type="text/javascript" src="../assets/js/jquery.prettyPhoto.js"></script>
+    <script type="text/javascript" src="../assets/js/jquery.isotope.js"></script>
+    <script type="text/javascript" src="../assets/js/jquery.counterup.js"></script>
+    <script type="text/javascript" src="../assets/js/waypoints.js"></script>
+    <script type="text/javascript" src="../assets/js/jqBootstrapValidation.js"></script>
+    <script type="text/javascript" src="../assets/js/contact_me.js"></script>
+    <script type="text/javascript" src="../assets/js/main.js"></script>
 
 </body>
 
