@@ -202,14 +202,14 @@
                     <div class="col-sm-6 col-md-3 col-lg-3 app">
                         <div class="portfolio-item">
                             <div class="hover-bg">
-                                <a href="../assets/img/portfolio/02-large.png" title="https://github.com/eby8zevin/Android-QRBarcode" rel="prettyPhoto">
+                                <a href="../assets/img/portfolio/02-large.gif" title="https://github.com/eby8zevin/Android-QRBarcode" rel="prettyPhoto">
                                     <div class="hover-text">
                                         <h4>QRBarcode</h4>
                                         <small>Mobile Development</small>
                                         <div class="clearfix"></div>
                                         <i class="fa fa-android"></i>
                                     </div>
-                                    <img src="../assets/img/portfolio/02-small.png" class="img-responsive" alt="https://github.com/eby8zevin/Android-QRBarcode/actions/workflows/android.yml">
+                                    <img src="../assets/img/portfolio/02-small.gif" class="img-responsive" alt="https://github.com/eby8zevin/Android-QRBarcode/actions/workflows/android.yml">
                                 </a>
                             </div>
                         </div>
@@ -384,13 +384,15 @@
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>Toko Samudra Jaya</h4>
+                                    <h4>Samudra Jaya Shop</h4>
                                     <h4 class="subheading">Shopkeeper</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p>● Responsible for the management and business of the family owned shop.<br>
-                                        ● Provide maximum service to customers in the store every day to ensure customer satisfaction.<br>
-                                        ● Carry out sales transactions in the store and maintain the security of the work area (store).</p>
+                                    <ul>
+                                        <li>● Opened, closed, and managed operations of the shop, as needed.</li>
+                                        <li>● Ordered, procured, and stocked all received shop items, in a proper manner.</li>
+                                        <li>● Operated cash register and handled all cash/edc/transfer transactions, in an efficient manner.</li>
+                                    </ul>
                                 </div>
                             </div>
                         </li>
