@@ -246,68 +246,70 @@
                             </div>
                         </div>
                     </div>
-
-                    <!-- <div class="col-sm-6 col-md-3 col-lg-3 branding">
-                        <div class="portfolio-item">
-                            <div class="hover-bg">
-                                <a href="./assets/img/portfolio/05-large.jpg" title="Project description" rel="prettyPhoto">
-                                    <div class="hover-text">
-                                        <h4>Project Title</h4>
-                                        <small>Branding</small>
-                                        <div class="clearfix"></div>
-                                        <i class="fa fa-plus"></i>
-                                    </div>
-                                    <img src="./assets/img/portfolio/05-small.jpg" class="img-responsive" alt="Project Title">
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-6 col-md-3 col-lg-3 branding app">
-                        <div class="portfolio-item">
-                            <div class="hover-bg">
-                                <a href="./assets/img/portfolio/06-large.jpg" title="Project description" rel="prettyPhoto">
-                                    <div class="hover-text">
-                                        <h4>Project Title</h4>
-                                        <small>Branding</small>
-                                        <div class="clearfix"></div>
-                                        <i class="fa fa-plus"></i>
-                                    </div>
-                                    <img src="./assets/img/portfolio/06-small.jpg" class="img-responsive" alt="Project Title">
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-6 col-md-3 col-lg-3 web">
-                        <div class="portfolio-item">
-                            <div class="hover-bg">
-                                <a href="./assets/img/portfolio/07-large.jpg" title="Project description" rel="prettyPhoto">
-                                    <div class="hover-text">
-                                        <h4>Project Title</h4>
-                                        <small>Web Design</small>
-                                        <div class="clearfix"></div>
-                                        <i class="fa fa-plus"></i>
-                                    </div>
-                                    <img src="./assets/img/portfolio/07-small.jpg" class="img-responsive" alt="Project Title">
-                                </a>
-                            </div>
-                        </div>
-                    </div>
+                    <!-- 5 -->
                     <div class="col-sm-6 col-md-3 col-lg-3 app">
                         <div class="portfolio-item">
                             <div class="hover-bg">
-                                <a href="./assets/img/portfolio/08-large.jpg" title="Project description" rel="prettyPhoto">
+                                <a href="./assets/img/portfolio/05-large.png" title="https://github.com/eby8zevin/android-VolleyGson" rel="prettyPhoto">
                                     <div class="hover-text">
-                                        <h4>Project Title</h4>
-                                        <small>App Development</small>
+                                        <h4>Volley GSON</h4>
+                                        <small>Mobile Development</small>
                                         <div class="clearfix"></div>
-                                        <i class="fa fa-plus"></i>
+                                        <i class="fa fa-android"></i>
                                     </div>
-                                    <img src="./assets/img/portfolio/08-small.jpg" class="img-responsive" alt="Project Title">
+                                    <img src="./assets/img/portfolio/05-small.gif" class="img-responsive" alt="https://github.com/eby8zevin/android-VolleyGson/actions/workflows/android.yml">
                                 </a>
                             </div>
-                        </div> 
-                    </div> -->
-
+                        </div>
+                    </div>
+                    <!-- 6 -->
+                    <div class="col-sm-6 col-md-3 col-lg-3 branding web">
+                        <div class="portfolio-item">
+                            <div class="hover-bg">
+                                <a href="./assets/img/portfolio/06-large.png" title="https://github.com/eby8zevin/notes-app-back-end" rel="prettyPhoto">
+                                    <div class="hover-text">
+                                        <h4>Notes App</h4>
+                                        <small>Back End</small>
+                                        <div class="clearfix"></div>
+                                        <i class="fa fa-database"></i>
+                                    </div>
+                                    <img src="./assets/img/portfolio/06-small.png" class="img-responsive" alt="https://nodejs-notes-app-backend.herokuapp.com/notes">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- 7 -->
+                    <div class="col-sm-6 col-md-3 col-lg-3 app">
+                        <div class="portfolio-item">
+                            <div class="hover-bg">
+                                <a href="./assets/img/portfolio/07-large.png" title="https://github.com/eby8zevin/unity-ARMarker" rel="prettyPhoto">
+                                    <div class="hover-text">
+                                        <h4>AR Fruits</h4>
+                                        <small>Mobile Development</small>
+                                        <div class="clearfix"></div>
+                                        <i class="fa fa-android"></i>
+                                    </div>
+                                    <img src="./assets/img/portfolio/07-small.gif" class="img-responsive" alt="https://github.com/eby8zevin/unity-ARMarker/releases/tag/1.0">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- 8 -->
+                    <div class="col-sm-6 col-md-3 col-lg-3 web">
+                        <div class="portfolio-item">
+                            <div class="hover-bg">
+                                <a href="./assets/img/portfolio/08-large.png" title="https://github.com/eby8zevin/JavaScript-BookshelfAPI" rel="prettyPhoto">
+                                    <div class="hover-text">
+                                        <h4>Bookshelf API</h4>
+                                        <small>Back End</small>
+                                        <div class="clearfix"></div>
+                                        <i class="fa fa-database"></i>
+                                    </div>
+                                    <img src="./assets/img/portfolio/08-small.png" class="img-responsive" alt="https://javascript-bookshelfapi.herokuapp.com/books">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
