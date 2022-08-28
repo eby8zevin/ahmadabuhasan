@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Portfolio">
     <meta name="author" content="Ahmad Abu Hasan">
-    <meta name="keyword" content="Android, Java, XML, Kotlin, HTML, PHP, MySQL, JavaScript, Developer">
+    <meta name="keyword" content="Android, Java, XML, Kotlin, HTML, CSS, JavaScript, PHP, MySQL, Developer">
 
     <title>Ahmad Abu Hasan</title>
 
@@ -349,6 +349,20 @@
                 </div>
             </div>
         </div> -->
+        <marquee width="100%">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" height="100" hspace="25">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" height="100" hspace="25">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="100" hspace="25">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="100" hspace="25">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" height="100" hspace="25">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="100" hspace="25">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="100" hspace="25">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="100" hspace="25">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="100" hspace="25">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="100" hspace="25">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="100" hspace="25">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" height="100" hspace="25">
+        </marquee>
     </div>
 
     <!-- Resume Section -->
@@ -529,23 +543,23 @@
 
                 <div class="social">
                     <ul>
-                        <li><a href="https://www.facebook.com/profile.php?id=100001555488554">
+                        <li><a href="https://www.facebook.com/profile.php?id=100001555488554" target="_blank">
                                 <i class="fa fa-facebook"></i>
                             </a>
                         </li>
-                        <li><a href="https://www.twitter.com/eby8zevin">
+                        <li><a href="https://www.twitter.com/eby8zevin" target="_blank">
                                 <i class="fa fa-twitter"></i>
                             </a>
                         </li>
-                        <li><a href="https://www.instagram.com/eby8zevin">
+                        <li><a href="https://www.instagram.com/eby8zevin" target="_blank">
                                 <i class="fa fa-instagram"></i>
                             </a>
-                        <li><a href="https://www.github.com/eby8zevin">
-                                <i class="fa fa-github"></i>
+                        <li><a href="https://www.linkedin.com/in/ahmadabuhasan" target="_blank">
+                                <i class="fa fa-linkedin"></i>
                             </a>
                         </li>
-                        <li><a href="https://www.linkedin.com/in/ahmadabuhasan">
-                                <i class="fa fa-linkedin"></i>
+                        <li><a href="https://www.github.com/eby8zevin" target="_blank">
+                                <i class="fa fa-github"></i>
                             </a>
                         </li>
                     </ul>
