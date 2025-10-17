@@ -512,7 +512,7 @@
                 </div>
                 <div class="col-md-4">
                     <i class="fa fa-phone fa-2x"></i>
-                    <p><a href="https://wa.me/6281977332483" target="_blank" onMouseOver="this.style.color='white'" onMouseOut="this.style.color='black'">Call</a></p>
+                    <p><a href="https://wa.me/6282233007997" target="_blank" onMouseOver="this.style.color='white'" onMouseOut="this.style.color='black'">Call</a></p>
                 </div>
                 <div class="clearfix"></div>
             </div>
